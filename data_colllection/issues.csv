@@ -1,0 +1,501 @@
+Issue Number,Title,Author,Created At,State,Labels
+26153,sample: tracker parameters updated,onurcankaraman,2024-09-14 20:38:44+00:00,open,
+26152,imagecodecs minor improvements,sturkmen72,2024-09-14 18:53:36+00:00,open,
+26151,change condition of CV_DbgAssert from _DEBUG to NDEBUG,Ginkgo-Biloba,2024-09-14 14:22:08+00:00,open,feature
+26150,Fix einsum for new engine,Abdurrahheem,2024-09-13 16:22:44+00:00,open,category: dnn (onnx)
+26149,Python type stubs/`.pyi` files for CMake install,carschandler,2024-09-13 16:22:21+00:00,open,feature
+26147,Fix some js generation issues.,vrabaud,2024-09-13 09:53:32+00:00,open,category: javascript (js)
+26145,Java bindings dlls files in jars not working for runnable jars in eclipse,goofyseeker311,2024-09-12 07:38:31+00:00,open,"feature, category: build/install, category: java bindings"
+26143,Added HAL interface for Lukas-Kanade optical flow,asmorkalov,2024-09-11 09:13:10+00:00,open,"feature, category: video"
+26141,[ONNX IMPORTER] Concat,pfeatherstone,2024-09-11 05:32:57+00:00,open,"feature, category: dnn (onnx)"
+26140,[TFLITE IMPORTER] STRIDED_SLICE,pfeatherstone,2024-09-11 05:19:32+00:00,open,"feature, category: dnn"
+26138,Difference in saturation behavior between single-channel and multi-channel matrix operations,jkanem,2024-09-10 17:29:03+00:00,open,"bug, category: core"
+26137,increase the stack size of MatSize and MatStep,Ginkgo-Biloba,2024-09-10 16:14:09+00:00,open,feature
+26136,Point within bounds of an image,pasbi,2024-09-10 07:36:44+00:00,open,"feature, category: core"
+26130,fillPoly draws outside boundaries,Eric-Vignola,2024-09-08 08:13:52+00:00,open,"bug, category: imgproc, confirmed"
+26129,Android SDK Kotlin 2.0 internal compiler error,Kamjam31xx,2024-09-08 06:48:38+00:00,open,"bug, category: build/install, platform: android, community help requested"
+26127,Faster implementation of blobFromImages for cpu nchw output,alexlyulkov,2024-09-06 15:26:04+00:00,open,"optimization, category: dnn"
+26126,Default Z-Axis For SolvePnP Charuco Board Seems to be Into Board - Inconsistent Indexing of Charuco Corners to Previous Versions,glvov-bdai,2024-09-06 15:01:32+00:00,open,bug
+26123,Mat contructor with GMat,rdeneer-innovatech,2024-09-06 08:14:42+00:00,open,"feature, category: g-api / gapi"
+26121,Using Charuco Board to get camera intrinsics in opencv-python,pnihranz213,2024-09-05 18:25:46+00:00,open,question (invalid tracker)
+26118,Wrong pixel value after resize with Linear interpolation,bedapisl,2024-09-05 13:30:56+00:00,open,question (invalid tracker)
+26112,Make proper layers implementations to support the new dnn engine in 5.x,vpisarev,2024-09-04 14:16:35+00:00,open,feature
+26108,Linking CXX executable ../../bin/opencv_test_videostab， error: 'GInferOutputs' in namespace 'cv' does not name a type,Ajay-Wong,2024-09-04 06:31:34+00:00,open,bug
+26103,Question about deploying ONNX model using OpenCV DNN and CUDA,WCaiL,2024-09-03 03:06:04+00:00,open,question (invalid tracker)
+26098,Python bindings do not respect optional modules,allsey87,2024-09-02 12:47:05+00:00,open,"bug, incomplete"
+26095,Unable to build openCV on Windows,R-Goc,2024-09-01 17:08:23+00:00,open,"bug, feature, category: build/install"
+26092,C++ no includes on get-started page on OpenCV.org,fabtjar,2024-08-30 14:09:44+00:00,open,category: documentation
+26090,[OpenGL] Add OpenGL Program helper classes and functions for OpenGL >= 3.2,mqcmd196,2024-08-30 05:56:05+00:00,open,"category: highgui-gui, category: core, GSoC"
+26089,Crashes when dealing with large images,LearningLove-Wang,2024-08-30 01:52:45+00:00,open,"invalid, question (invalid tracker)"
+26086,cv::HoughLinesProbabilistic segmentation fault hough.cpp:692,vsdev,2024-08-29 14:44:53+00:00,open,"bug, category: imgproc"
+26085,"blobRectsToImageRects,This function has an error",icexiong1,2024-08-29 10:15:35+00:00,open,"bug, incomplete, needs reproducer"
+26083,Missing opencv_world4100.dll and opencv_world4100d.dll in Bin Folder during Extraction using GitHub Actions,AndreiBee,2024-08-28 17:13:11+00:00,open,"bug, category: build/install, platform: win32"
+26082,imgproc: restore multiplanar conversion functions in cv::hal namespace,mshabunin,2024-08-28 13:49:19+00:00,open,"category: imgproc, category: videoio, category: build/install"
+26078,fitEllipse returns a very far ellipse,erasta,2024-08-28 10:29:02+00:00,open,bug
+26074,Parallel support for filter engine,FantasqueX,2024-08-28 06:47:03+00:00,open,"optimization, feature"
+26072,(.note.gnu.property+0x0): data is too short error during IPP linkage with NDK 27 for Android x86,asmorkalov,2024-08-27 10:15:36+00:00,open,"bug, category: build/install, platform: android"
+26068,How to build static library for iOS?,stricklandye,2024-08-26 12:30:02+00:00,open,category: documentation
+26065,Added alpha blending support to cv::line and drawing.cpp internal lin…,andreyd05,2024-08-24 21:28:09+00:00,open,"feature, category: imgproc, pr: needs test, pr: Discussion Required"
+26064,Unable to install OpenCV Java on Mac,watermelon11,2024-08-24 17:24:07+00:00,open,
+26060,DNN Input Remains The Same Even After Setting New Input,gbiz123,2024-08-22 15:22:55+00:00,open,"bug, category: java bindings, category: dnn"
+26057,Android builds update,asmorkalov,2024-08-22 10:04:18+00:00,open,"category: build/install, platform: android"
+26056,[WIP] New dnn engine,vpisarev,2024-08-21 22:17:34+00:00,open,"feature, RFC, category: dnn, category: dnn (onnx)"
+26055,Implement cv::cuda::extractChannel,pasbi,2024-08-21 16:57:24+00:00,open,"feature, category: gpu/cuda (contrib)"
+26049,get different result while invoke connectedComponentsWithStats function with multi thread,Cute-Yang,2024-08-20 12:25:10+00:00,open,"bug, category: imgproc, confirmed"
+26040,"""How to contribute to OpenCV"" is out of date.",Kumataro,2024-08-17 23:03:48+00:00,open,category: documentation
+26036,"is:issue is:open I have a Java Service running in Windows, the program used the dependency of ""opencv_java455.dll"",but now I want to deployee the service on ubantu, How do I do? ",WangShaoze,2024-08-16 10:49:36+00:00,open,"question (invalid tracker), incomplete"
+26027,Android 15: UnsatisfiedLinkError: dlopen failed: empty/missing DT_HASH/DT_GNU_HASH,H4dr1en,2024-08-14 13:45:04+00:00,open,"bug, platform: android"
+26020,Add a family of routines for evaluating confidence limits on parameters of the models optimized with SolvePnP and calibrateCamera,DmitryYurov,2024-08-12 00:15:49+00:00,open,feature
+26015,Exceptions when not named parameters,beanduan22,2024-08-10 05:46:30+00:00,open,question (invalid tracker)
+26013,opencv2 build error on linux,jimwang118,2024-08-09 09:02:26+00:00,open,"question (invalid tracker), category: build/install"
+26012,Add simd256 intrinsics to demosaicing,Octopus136,2024-08-08 09:56:00+00:00,open,"optimization, category: imgproc"
+26007,Add roadmap from dmabuffer to UMat,Lurie97,2024-08-07 08:28:08+00:00,open,"feature, category: core"
+26005,findCirclesGrid fails to detect calibration board,zhangzscn,2024-08-07 07:08:48+00:00,open,"bug, category: calib3d"
+25999,Test_ONNX_conformance.Layer_Test/test_dequantizelinear_blocked_OCV_CPU test fails after 4.x->5.x megre,asmorkalov,2024-08-06 12:12:49+00:00,open,"bug, category: dnn"
+25997,VideoCapture gives different frame content if file is opened several times,ivankrylatskoe,2024-08-06 09:04:27+00:00,open,"bug, category: videoio"
+25994,Implementation: CUDA support in the pre-built binaries of OpenCV,SaneRelapse,2024-08-06 06:09:38+00:00,open,feature
+25993,Add IWYU pragmas to support Clang's `misc-include-cleaner`'s findings regarding selection of `#include`s,lincolnpgoog,2024-08-05 23:11:17+00:00,open,"feature, pr: Discussion Required"
+25990,pyrDown is not consistent between different ROIs,savuor,2024-08-04 22:59:04+00:00,open,"bug, category: imgproc"
+25988,ImportError: libGL.so.1: cannot open shared object file: No such file or directory,NamburiSrinath,2024-08-03 23:17:02+00:00,open,"invalid, question (invalid tracker)"
+25984,imgproc: add optimized warpAffine kernels for 8U/16U/32F + C1/C3/C4 inputs,fengyuentau,2024-08-02 10:19:22+00:00,open,"optimization, category: imgproc"
+25977,calibrate.py parameters bug,carlosaol,2024-07-31 16:46:11+00:00,open,"question (invalid tracker), wontfix"
+25974,ORB produces different result with different values in mask pixels ,asmorkalov,2024-07-31 09:41:07+00:00,open,"bug, category: features2d"
+25973,add test for conv2d with padding,Abdurrahheem,2024-07-31 08:14:01+00:00,open,pr: reproducer
+25967,Problems with DrawAxis function,tas-pats,2024-07-30 13:15:02+00:00,open,"bug, category: objdetect"
+25966,WIP: Fix circle grid,AleksandrPanov,2024-07-29 13:28:35+00:00,open,"bug, test, category: calib3d"
+25964,"Add alignment checks to Mat, silence cast alignment warnings",TomaszTB,2024-07-29 00:27:49+00:00,open,"bug, category: core, category: build/install"
+25960,Unicode Build issues with system.cpp (MSVC / VS) ,danoli3,2024-07-26 17:13:55+00:00,open,"bug, duplicate, category: build/install, platform: win32, category: 3rdparty"
+25958,Supporting GTK4 highgui,mqcmd196,2024-07-26 09:41:12+00:00,open,"feature, category: highgui-gui, GSoC"
+25956,OpenCV.js 4.X with `--build_wasm` `--threads` `--build_test` Runtime Throws Errors,gblikas,2024-07-25 22:44:33+00:00,open,"bug, category: javascript (js)"
+25951,Mask support with CV_Bool in remaining modules,asmorkalov,2024-07-25 13:21:48+00:00,open,feature
+25949,Added extra cvtColor version for two planes output as NV12/NV21 and related color conversion codes,asmorkalov,2024-07-25 09:15:38+00:00,open,"feature, category: imgproc, pr: needs test"
+25948,Opencv logger memory leak,baizebing,2024-07-24 18:49:24+00:00,open,wontfix
+25947,Errors encountered using the Poisson editing module（cv2.seamlessClone）,HU13-SVG,2024-07-24 12:34:19+00:00,open,"bug, category: photo, needs investigation"
+25937,incorrect result of cv2.remap,iperov,2024-07-19 04:32:32+00:00,open,"bug, category: imgproc, needs investigation"
+25929,Built target opencv_cudafilters make error,liustu,2024-07-18 01:51:54+00:00,open,category: documentation
+25923,DNN: add tensorrt backend,zihaomu,2024-07-17 08:52:30+00:00,open,"optimization, category: gpu/cuda (contrib), category: dnn, pr: Discussion Required"
+25921,Test_ONNX_layers.PyTorchAttentionSingleHead test fails in 5.x with OpenCL back-end,asmorkalov,2024-07-17 06:52:02+00:00,open,"bug, category: ocl, category: dnn (onnx)"
+25918,cv.imdecode and cv.cvtColor Fail in OpenCV 4.10.0 with Valid Numpy Array,william-mx,2024-07-16 09:55:24+00:00,open,"bug, category: python bindings, incomplete"
+25916,OpenVINO 2024 not working properly,CSBVision,2024-07-16 09:04:09+00:00,open,"bug, category: dnn, confirmed"
+25910,MacOS version lacking definitions from third-party library,mister-drgn,2024-07-15 00:55:18+00:00,open,"bug, category: build/install, platform: ios/osx"
+25909,Update intrin_wasm.hpp,gblikas,2024-07-14 23:04:08+00:00,open,"category: build/install, category: javascript (js)"
+25904,SimpleBlobDetector lacks documentation ,TonyCongqianWang,2024-07-13 02:52:37+00:00,open,"feature, category: documentation"
+25895,CV_Bool support for masks in 5.x,asmorkalov,2024-07-10 14:05:23+00:00,open,"feature, category: core, evolution"
+25892,Add support for v_sin and v_cos (Sine and Cosine),WanliZhong,2024-07-09 18:23:59+00:00,open,"optimization, feature"
+25891,WIP: Resolve Compilation Error for v_func Function in SIMD Emulator,WanliZhong,2024-07-09 16:47:01+00:00,open,"bug, category: core"
+25890,CV_Bool support is not complete,asmorkalov,2024-07-09 11:24:50+00:00,open,"feature, category: core"
+25889,RTSP streaming get stopped using open cv package,g7crservice-harshita-gupta,2024-07-09 07:53:46+00:00,open,"category: videoio, incomplete"
+25886,"[Android] When VideoCapture.read is executed, if the stride is longer than the width of the video, an error will occur.",Dev-Czle,2024-07-09 05:52:35+00:00,open,"bug, category: videoio(camera), platform: android"
+25884,aruco board generateImage() cannot handle rotated markers,dcnieho,2024-07-08 17:38:23+00:00,open,"bug, category: objdetect"
+25882,Charuco detection breaks for multiple boards and/or with ID offset,tas-pats,2024-07-08 11:20:03+00:00,open,"bug, category: objdetect"
+25879,Speed optimization of function ICAngles in orb.cpp,spdfghi,2024-07-07 08:25:56+00:00,open,"optimization, category: features2d"
+25876,Python bindings cv2 recursion issue,omareferrer,2024-07-06 20:28:18+00:00,open,"bug, question (invalid tracker), category: python bindings, category: build/install"
+25871,Why are the supported opencl related functions slower on gpu than on cpu ,Lurie97,2024-07-05 08:39:38+00:00,open,"question (invalid tracker), optimization"
+25869,[RFC] Add some support for cv::Mat_<const _Tp>,vrabaud,2024-07-04 13:02:11+00:00,open,RFC
+25867,`FastFeatureDetector` slight optimization possible,roncapat,2024-07-04 08:17:38+00:00,open,"bug, optimization"
+25862,JS bindings for MSER are broken in 5.x,asmorkalov,2024-07-03 13:12:44+00:00,open,"bug, category: javascript (js), community help requested"
+25854,Various grammar issues and typos in documentation of imgcodecs,dan-masek,2024-07-03 01:07:20+00:00,open,"category: documentation, community help requested"
+25853,WarpAffine unexpected results using OpenCl,JuanDYB,2024-07-02 21:56:44+00:00,open,"question (invalid tracker), category: ocl"
+25852,"Resize Mat with ""not-fitting"" scale shifts image",nji9nji9,2024-07-02 20:57:26+00:00,open,"bug, category: imgproc, needs investigation"
+25850,ChAruco regression on tough perspective,feature-engineer,2024-07-02 14:38:02+00:00,open,"bug, category: calib3d, category: objdetect"
+25846,"VideoCapture frame always returns True, when using an external trigger.",JoaoFLNFernandes,2024-07-02 10:20:56+00:00,open,"bug, category: videoio(camera), platform: arm"
+25837,A better implementation for clahe algorithm with a small change in redistribution process. Its not a coding problem.,Snow5402,2024-06-30 14:18:34+00:00,open,"bug, category: imgproc, needs investigation"
+25835,fix osx framework structure,klatism,2024-06-29 13:39:36+00:00,open,"category: build/install, platform: ios/osx, incomplete"
+25831,cv::VideoWriter error: (-215:Assertion failed) !filename_pattern.empty() in function 'open',JeremyKilbride,2024-06-28 20:26:17+00:00,open,"category: videoio, incomplete"
+25828,StereoSGBM: non-deterministic,sfranchois,2024-06-28 13:37:28+00:00,open,"bug, category: calib3d"
+25825,RGB->XYZ color space conversion improvement,abust005,2024-06-27 21:13:11+00:00,open,"feature, category: imgproc"
+25819, HAL for setTo() added,savuor,2024-06-27 05:21:28+00:00,open,"optimization, category: core"
+25812,SVM train fails with no warning on infeasible nu parameter,farlies,2024-06-24 15:33:21+00:00,open,"bug, category: ml"
+25798,Buffer overwrite triggered by UMat.copyTo(Mat) on Intel Graphics,debruyckere,2024-06-21 09:15:34+00:00,open,"bug, category: ocl"
+25797,Built target opencv_dnn make: *** [Makefile:163: all] Error 2,sck-star,2024-06-21 08:24:17+00:00,open,question (invalid tracker)
+25795,Tests failed on Loongarch platform because of divided by 0 is being handled incorrectly,CNClareChen,2024-06-20 13:26:09+00:00,open,"bug, RFC, platform: loongson"
+25790,OpenCV.js does not work from a web worker if WASM threads are enabled,andynewman10,2024-06-20 08:17:59+00:00,open,"bug, category: javascript (js), community help requested"
+25783,Not able to stitch some of the  input image in stitching_detailed.py,thalapandi,2024-06-19 07:38:30+00:00,open,question (invalid tracker)
+25782,"error: reference to 'Point' (+Size, Rect, Ptr) is ambiguous while building for iOS",FeodorFitsner,2024-06-18 20:17:48+00:00,open,"bug, platform: ios/osx"
+25763,ONNX broken for identity function,cdeln,2024-06-13 14:13:12+00:00,open,"bug, category: dnn, category: dnn (onnx)"
+25753,Inconsistent result from segmentation sample for u2netp model,gursimarsingh,2024-06-12 11:50:53+00:00,open,"bug, category: samples, OpenCV5"
+25752,opencv still uses Concurrency Runtime in parallel_for_xxx functions on Windows,wanghan02,2024-06-12 09:47:51+00:00,open,"feature, platform: win32"
+25750,Does OpenCV really support FFmpeg 5.0+ on Windows?,Chenwei-Ni,2024-06-12 06:10:40+00:00,open,"question (invalid tracker), category: videoio, category: 3rdparty"
+25749,G-API error in some PatternMatchingIntegrationE2E tests,savuor,2024-06-11 21:18:30+00:00,open,"bug, platform: arm, category: g-api / gapi"
+25748,G-API error in VASObjectTracker test,savuor,2024-06-11 21:11:23+00:00,open,"bug, category: g-api / gapi"
+25747,Cant install latest opencv due to undefined reference (libcublas),lschaupp,2024-06-11 20:38:42+00:00,open,"bug, category: build/install, category: gpu/cuda (contrib)"
+25744,error: (-216:No CUDA support) OpenCV was not built to work with the selected device. Please check CUDA_ARCH_PTX or CUDA_ARCH_BIN in your build configuration. in function 'initCUDABackend'a support ,eagle-dot,2024-06-11 14:37:48+00:00,open,question (invalid tracker)
+25742,CMake Error at cmake/OpenCVDetectCUDAUtils.cmake:297 (list):   list GET given empty list,sck-star,2024-06-11 06:30:09+00:00,open,"question (invalid tracker), category: build/install, category: gpu/cuda (contrib)"
+25740,dnn 5.x with OpenVINO 2022.1 backend doesn't pass integer tests because of the NaryEltwise layer,alexlyulkov,2024-06-10 20:36:52+00:00,open,bug
+25736,OpenCV 4.10.0 segfault when using OpenVINO 2024.0.0,roflcoopter,2024-06-10 12:26:54+00:00,open,"bug, category: dnn"
+25734,Docs for Python imshow example improvement,KardoPaska,2024-06-09 04:26:02+00:00,open,category: documentation
+25724,Add SIMD256 intrinsics to demosaicing,FantasqueX,2024-06-07 02:35:41+00:00,open,"optimization, feature, category: imgproc, priority: low"
+25717,"Use of omp_set_dynamic() creates nonsensical OpenMP behaviour, using only 1 thread",nh2,2024-06-06 01:29:41+00:00,open,bug
+25715,Animated PNG Support,sturkmen72,2024-06-05 16:24:07+00:00,open,"category: imgcodecs, GSoC"
+25713,Python return types in 4.10 break type checking due to not depending on input types,johnthagen,2024-06-05 14:00:25+00:00,open,"bug, category: python bindings, effort: ∞"
+25712,opencv-java 4.10.0 win11 加载yolov10 onnx报错,Soap13,2024-06-05 13:41:38+00:00,open,"bug, category: dnn (onnx)"
+25710,Merged yolo_detector and object detection sample,gursimarsingh,2024-06-05 12:27:37+00:00,open,"category: samples, cleanup, OpenCV5"
+25708,Add interface to Annoy which will replace the FLANN,kaingwade,2024-06-05 04:22:28+00:00,open,"feature, cleanup"
+25707,Max/Min pool,Daniel63656,2024-06-04 21:15:19+00:00,open,"feature, category: dnn"
+25705,Window freezes after 4 updates,wDRxxx,2024-06-04 15:42:15+00:00,open,"bug, platform: win32"
+25696,"Problem in Subdiv2D, empty triangulation",NikitaChampion,2024-06-03 12:46:35+00:00,open,bug
+25692,Should the camera pose be changed to object pose in the introduction of Homography from the camera display？,xingkongger,2024-06-03 07:31:20+00:00,open,category: documentation
+25691,[GSoC] Add GIF decode and encode for imgcodecs,redhecker,2024-06-02 13:41:29+00:00,open,"feature, category: imgcodecs, GSoC"
+25687,Incorporating optimisations to GaussianBlur and Filter2D operations,ITV-107,2024-06-01 17:04:06+00:00,open,"feature, category: imgproc"
+25685,ocl compile error on imgproc/remap,Ginkgo-Biloba,2024-05-31 16:43:32+00:00,open,"bug, category: imgproc, category: ocl"
+25678,macOS arm64 build cannot be linked,alblib,2024-05-31 05:41:03+00:00,open,"bug, category: build/install, platform: ios/osx"
+25677,Connect webcam with its Alternative name,pnthai88,2024-05-31 04:57:44+00:00,open,"feature, category: videoio(camera), platform: win32"
+25676,windows error: invalid cast from type 'pthread_t' {aka 'ptw32_handle_t'} to type 'void*,wDRxxx,2024-05-30 14:39:05+00:00,open,"bug, platform: win32, platform: other"
+25667,Improved person reid cpp and python sample,gursimarsingh,2024-05-29 12:04:47+00:00,open,"category: samples, cleanup, OpenCV5"
+25666,findContours inner holes has problems with their corners,YoniChechik,2024-05-29 11:51:54+00:00,open,"bug, category: imgproc"
+25656,"added ximgproc edgedrawing to opencvjs, ",geroldmeisinger,2024-05-27 21:39:11+00:00,open,"incomplete, category: javascript (js)"
+25655,Does example source have rows and columns switched?,HomicidalBrainiac,2024-05-27 21:10:09+00:00,open,category: documentation
+25651,"Removing ""break"" statements from While loop - calib3d, USAC source code",Bruce387,2024-05-27 06:27:15+00:00,open,invalid
+25635,Replacing the Lena image from the documentation,arobase-che,2024-05-24 01:38:26+00:00,open,category: documentation
+25624,"HAL added for add(array, scalar)",savuor,2024-05-23 01:52:33+00:00,open,
+25620,Support for lowpass/anti-alias enabled resizing operations to support preprocessing operations for models trained with torchvision,timstokman,2024-05-22 10:44:24+00:00,open,feature
+25614,AttributeError: module 'cv2.dnn' has no attribute 'DictValue',abhirupghosh,2024-05-21 08:03:03+00:00,open,bug
+25608,Animated WebP Support,sturkmen72,2024-05-19 19:20:24+00:00,open,"feature, category: imgcodecs, GSoC"
+25600,Switch to FindPython3 in CMake (policy 0148),asmorkalov,2024-05-16 14:59:53+00:00,open,"feature, category: python bindings, category: build/install"
+25597,Mesh Clustering for 3D Module,starga2er777,2024-05-16 12:54:42+00:00,open,category: 3d module
+25584,Open VideoCapture from memory buffer,dkurt,2024-05-14 12:26:25+00:00,open,"feature, category: videoio, RFC"
+25581,Convert single layer caffe tests to onnx format,WanliZhong,2024-05-14 08:29:35+00:00,open,"test, category: dnn, cleanup, OpenCV5"
+25575,"when create new Mat with multi-channels(i.e., 8) with the particular value(i.e. 0.9), it will raise error (error: (-215:Assertion failed) cn <= 4 in function 'scalarToRawData')",destinyzs,2024-05-13 07:51:25+00:00,open,"bug, RFC"
+25573,get a classifier cascade parameters from original Cascase XML file,DatNguyen97-VN,2024-05-12 09:25:52+00:00,open,"question (invalid tracker), feature"
+25572,Is it possible to raise cmake_minimum_version in opencv 5.0?,FantasqueX,2024-05-11 13:54:21+00:00,open,"feature, pr: Discussion Required"
+25571,Om object track,motijimmy,2024-05-10 18:09:55+00:00,open,question (invalid tracker)
+25569,Use zlib target instead of ZLIB_INCLUDE_DIRS and ZLIB_LIBRARIES,FantasqueX,2024-05-10 17:08:50+00:00,open,"category: build/install, category: 3rdparty"
+25548,Change classic caffe models related tests and samples to onnx format,WanliZhong,2024-05-06 14:53:08+00:00,open,"test, category: samples, category: dnn, cleanup, OpenCV5"
+25547,Several videoio MPEG encoding tests fails with Gstreamer on Ubuntu 24.04,asmorkalov,2024-05-06 13:48:21+00:00,open,"bug, category: videoio"
+25546,findHomography returns bad homography and ouliers in the inlier mask,cdeln,2024-05-06 06:40:46+00:00,open,"bug, priority: high, category: calib3d, confirmed"
+25543,"bug when build opencv: QT 6.7, UNICODE, __itt_domain_create",sunqian119,2024-05-05 04:16:53+00:00,open,"bug, category: core, category: build/install, category: 3rdparty"
+25539,Off by ~0.5 pixel error in `cv2.aruco.CharucoDetector` compared to `cv2.findChessboardCorners`,matthewbaran,2024-05-03 16:26:28+00:00,open,"bug, category: calib3d, category: objdetect"
+25534,Some dnn tests doesn't work with OpenVINO 2024.0.0,alexlyulkov,2024-05-03 07:17:55+00:00,open,"bug, category: dnn"
+25533,Strange behaviour with OpenVINO and int64 custom layers,alexlyulkov,2024-05-03 07:03:43+00:00,open,"bug, category: dnn"
+25508,G-API OV backend requires partial shape support,DariaMityagina,2024-04-29 11:57:49+00:00,open,"bug, category: g-api / gapi"
+25507,Fix CharuCo slowdown,jan-jachnik-oxa,2024-04-29 07:08:16+00:00,open,
+25504,Resizing the window doesn't properly scale the image within.,Semnodime,2024-04-28 17:36:32+00:00,open,"bug, category: highgui-gui"
+25500,V4l default image size,alex-urm,2024-04-27 16:24:33+00:00,open,category: videoio(camera)
+25499,AVMATRIX VC42 capture board: Pixel format of incoming image is unsupported by OpenCV,alex-urm,2024-04-27 16:17:01+00:00,open,"bug, category: videoio(camera)"
+25494,G-API: Extend ITT traces coverage,TolyaTalamanov,2024-04-26 16:51:20+00:00,open,category: g-api / gapi
+25485,Inconsistent shape for ConcatLayer in function 'getMemoryShapes' while reading onnx model,gursimarsingh,2024-04-24 13:02:45+00:00,open,"bug, category: dnn (onnx)"
+25473,interpolation blend colors even when fully transparent,Edu371,2024-04-23 00:27:28+00:00,open,"question (invalid tracker), category: imgproc"
+25471,Test_ONNX_conformance.Layer_Test/test_nllloss_NCd1d2d3d4d5_none_no_weight_expanded_CUDA_CUDA crashes,asmorkalov,2024-04-22 12:18:46+00:00,open,"bug, category: gpu/cuda (contrib), category: dnn"
+25464,Inconsistent and unexpected behavior of cv.multiply() function with color images across OpenCV versions (4.5 to 4.8 vs. 4.9),cocositu,2024-04-20 14:52:30+00:00,open,"bug, category: python bindings"
+25462,Move Darknet importer and caffe importer in opencv_contrib,LaurentBerger,2024-04-19 13:18:03+00:00,open,"feature, RFC"
+25461,Error on Compiling OpenCV cuda,Isaac94b,2024-04-19 12:24:02+00:00,open,"bug, duplicate, category: gpu/cuda (contrib)"
+25446,Build with MPS?,johnnynunez,2024-04-18 11:15:43+00:00,open,"feature, priority: low, platform: ios/osx"
+25441,How can i use the PlaneWarperGpu?,DemeulemeesterTibe,2024-04-18 08:04:57+00:00,open,category: documentation
+25437,Cannot read a tensorflow model,LaurentBerger,2024-04-17 18:41:24+00:00,open,"bug, category: dnn"
+25436,"OpenCL code for BFMatcher throws with w Intel Iris, works w NVidia A2000",Tobiidave,2024-04-17 16:03:15+00:00,open,"bug, category: features2d, category: ocl"
+25426,DNN: CUDA backend requires cuDNN.  Please resolve dependency or disable OPENCV_DNN_CUDA=OFF,Mahmoud1205,2024-04-16 19:32:50+00:00,open,"bug, category: build/install, category: gpu/cuda (contrib), category: dnn"
+25425,Add CORP header to opencv.js,jrtcppv,2024-04-16 18:55:31+00:00,open,"category: infrastructure, category: javascript (js)"
+25418,"OpenCV-Python Bindings, vector<>, Matx<> conversion",lahrims,2024-04-15 15:55:25+00:00,open,feature
+25417,vcpkg support for version 4.9.0,flriancu,2024-04-15 14:20:27+00:00,open,"feature, category: build/install, platform: win32, platform: arm"
+25394,in place convertTo,Gao-HaoYuan,2024-04-11 09:31:14+00:00,open,"optimization, category: core"
+25386,Integrating OpenCV with FastAPI and Redis RQ Causes Task/Job Failures,HuseynG,2024-04-10 09:34:51+00:00,open,"bug, category: python bindings, category: build/install"
+25370,Unexpect error when invoke cv2.sampsonDistance,beanduan22,2024-04-08 09:12:32+00:00,open,bug
+25367,crash and Unknown C++ exception when I invoke cv2.validateDisparity,beanduan22,2024-04-08 01:11:22+00:00,open,bug
+25362,VideoWriter (ffmpeg 5.0.1) for h.264 (AVC1) systematical color change,nji9nji9,2024-04-07 14:12:19+00:00,open,"bug, category: videoio, needs investigation"
+25355,I can't build opencv.js,Senails,2024-04-06 20:27:43+00:00,open,"feature, category: documentation, category: build/install, category: javascript (js), category: 3rdparty"
+25352,cv::fisheye::distortPoints is not documented fully,oleg-alexandrov,2024-04-06 00:41:28+00:00,open,"category: documentation, category: calib3d"
+25350,Fisheye lens documentation is very confusing,oleg-alexandrov,2024-04-05 22:42:12+00:00,open,category: documentation
+25349,Videocapture samples cleanup cpp,gursimarsingh,2024-04-05 14:25:56+00:00,open,"category: samples, cleanup, OpenCV5"
+25347,Improve python sample/ javascript sample code for computing and visualisation of dense-flow,nji9nji9,2024-04-05 13:26:45+00:00,open,category: documentation
+25332,"be able to ingest 10bit and 12 bit color streams, videos and photos",carlosdavid663,2024-04-04 08:54:03+00:00,open,feature
+25320,gapi accuracy test timeout sporadically: InferList.TestStreamingInfer,dkurt,2024-04-03 06:18:36+00:00,open,"bug, test, category: g-api / gapi"
+25316,error: (-215:Assertion failed) (int)detectedCharucoVecMat[i].total() * detectedCharucoVecMat[i].channels() == 2 in function 'cv::aruco::CharucoBoardImpl::matchImagePoints',crackwitz,2024-04-02 21:00:58+00:00,open,
+25315,Segmentation fault on ParallelLoopBodyWrapperContext::finalize with ENABLE_INSTRUMENTATION=ON,mduran-earthrover,2024-04-02 19:10:03+00:00,open,bug
+25314,Disable Tests for Unsupported ONNX Models in Caffe removal ,WanliZhong,2024-04-02 17:57:15+00:00,open,"category: dnn, category: dnn (onnx), cleanup, OpenCV5"
+25313,Compilation error with C++17 standard,david-alvarez-rosa,2024-04-02 17:43:04+00:00,open,"bug, incomplete"
+25311,Drop Haar Cascades from OpenCV 5.x Javascript bindings,asmorkalov,2024-04-02 14:31:31+00:00,open,"bug, cleanup"
+25309,imwrite return value documentation,thewoz,2024-04-02 10:51:18+00:00,open,category: documentation
+25303,CUDA version check,OgreTransporter,2024-04-01 11:20:37+00:00,open,feature
+25296,Support more ops in .tflite format,CNOCycle,2024-03-29 13:53:11+00:00,open,"feature, category: dnn"
+25292,features2d cleanup: Move several feature detectors and descriptors to opencv_contrib,kaingwade,2024-03-29 07:37:28+00:00,open,cleanup
+25290,"Unable to execute cv2.imshow() the second time in Linux, works in Windows",lyx0203,2024-03-29 07:05:00+00:00,open,bug
+25281,static cv::Mutex in function getPooledInstance() hurt multithreading perfermance,EXing,2024-03-28 08:00:04+00:00,open,"bug, optimization, category: flann"
+25253,Missing typing stub: cv2.SIFT_create(),allanerlang,2024-03-22 15:01:35+00:00,open,"bug, category: python bindings"
+25251,OpenCV conflict problem for Window popup,ElinLiu0,2024-03-22 05:41:30+00:00,open,bug
+25250,Lens distortion documentation unclear,oleg-alexandrov,2024-03-22 03:07:20+00:00,open,category: documentation
+25246,imwrite() to TIFF does not use COMPRESSION_SGILOG for 32FC1 (only 32FC3),chacha21,2024-03-21 10:03:22+00:00,open,"feature, category: imgcodecs"
+25245,Buildroot cross compile on Debian12 + ccache: fatal error: stdlib.h: No such file or directory ,niziak,2024-03-21 08:25:40+00:00,open,"bug, category: build/install"
+25244,Possible bug / precision issue in normalize(),swigicat,2024-03-21 08:24:06+00:00,open,question (invalid tracker)
+25243,cv2.CAP_ANY (MSMF) not support high resolution webcam,pnthai88,2024-03-21 07:44:53+00:00,open,"bug, category: videoio(camera), platform: win32"
+25239,"When binding APIs in opencv.js, corresponding structs/enums should be bound",vrabaud,2024-03-20 14:45:46+00:00,open,"bug, category: javascript (js)"
+25233,terminate called after throwing an instance of 'cv::Exception'   what():  OpenCV(4.5.4) ./modules/dnn/src/onnx/onnx_importer.cpp:739: error: (-2:Unspecified error) in function 'handleNode' > Node [Identity]:(onnx::Reshape_395) parse error: OpenCV(4.5.4) ./modules/dnn/src/dnn.cpp:5653: error: (-215:Assertion failed) inputs.size() in function 'getMemoryShapes',mike55688,2024-03-19 11:19:37+00:00,open,"bug, incomplete"
+25223,global cap_gstreamer.cpp:1164 isPipelinePlaying OpenCV | GStreamer warning: GStreamer: pipeline have not been created,gyu1111,2024-03-16 13:58:59+00:00,open,"question (invalid tracker), incomplete"
+25222,Caught an exception trying to run inference:,mike55688,2024-03-16 08:03:46+00:00,open,question (invalid tracker)
+25220,"in Android 11 & 12, it is showing black screen and no callback is listening or showing any logs for CvCameraViewListener2",Ashish2000L,2024-03-15 19:19:41+00:00,open,"bug, platform: android, incomplete"
+25219,Improve FileStorage documentation,thewoz,2024-03-15 13:36:31+00:00,open,"feature, category: documentation"
+25202,TrackerNano lacks cuda support. ,IuliuNovac,2024-03-12 13:10:40+00:00,open,"feature, category: gpu/cuda (contrib)"
+25200,Disable Tests for Unsupported ONNX Models in Darknet,WanliZhong,2024-03-12 08:51:41+00:00,open,"category: dnn, category: dnn (onnx), cleanup, OpenCV5"
+25188,Charuco detection has slowed down considerably since 4.6.0,jan-jachnik-oxa,2024-03-08 15:18:54+00:00,open,"bug, category: objdetect"
+25186,not declared in this scope,navinagaraj,2024-03-08 09:32:48+00:00,open,"bug, duplicate"
+25179,OpenCV: Using setDefaultAllocator() with custom allocator calls allocate() but not deallocate() - why?,galgibly,2024-03-07 14:11:40+00:00,open,bug
+25178,sepFilter2D insufficient shared (device) memory when using UMat,flyingfalling,2024-03-07 10:32:34+00:00,open,"bug, category: ocl"
+25175,CMake gapi option WITH_FREETYPE seems to be ignored,TDiblik,2024-03-06 15:36:10+00:00,open,"bug, category: build/install, category: g-api / gapi"
+25174,cv::Mat reshape does not support 1d and 0d arrays,asmorkalov,2024-03-06 15:27:06+00:00,open,"bug, category: core"
+25170,Support decompression of tiled JPEG2000 images ,gunterze,2024-03-06 13:56:25+00:00,open,"feature, category: imgcodecs"
+25165,Strange behaviour of cv2.add operation,on2k23nm,2024-03-06 01:26:25+00:00,open,"bug, category: python bindings"
+25164,Oak-D DepthAI with OpenCV 4.9.0 on Windows,cesarpgouveia,2024-03-05 18:26:10+00:00,open,"bug, category: build/install, category: g-api / gapi"
+25158,Implement TSDF integration weighting,savuor,2024-03-05 05:20:01+00:00,open,"feature, category: 3d module"
+25157,Try to speed up HashTSDF raycasting using triangle rasterization,savuor,2024-03-05 04:59:58+00:00,open,"feature, category: 3d module"
+25156,Properly implement GPU support for HashTSDF,savuor,2024-03-05 04:47:21+00:00,open,"feature, category: 3d module"
+25155,Implement color support for HashTSDF,savuor,2024-03-05 04:35:33+00:00,open,"feature, category: 3d module"
+25154,Make odometry algorithm parameters orthogonal,savuor,2024-03-05 04:26:53+00:00,open,"feature, category: 3d module"
+25153,Color TSDF rendering is noisy,savuor,2024-03-05 03:50:10+00:00,open,"bug, category: 3d module"
+25152,我在mac系统上安装最新版本的opencv时，brew install --build-from-source opencv 报错 ,dingtianbao,2024-03-05 03:38:25+00:00,open,"invalid, category: build/install"
+25151,Depth interpolation by triangle rasterization,savuor,2024-03-05 02:55:03+00:00,open,"feature, category: 3d module"
+25150,Implement minimum spanning tree,savuor,2024-03-05 01:53:11+00:00,open,"feature, category: 3d module"
+25139,cv2.error: in function 'cv::cornerSubPix',beanduan22,2024-03-02 12:14:06+00:00,open,"bug, category: calib3d"
+25136,crash when run more times,beanduan22,2024-03-02 01:02:17+00:00,open,"bug, incomplete"
+25128,cv2.pyrDown breaks the symmetry and shifts the data to the bottomright corner,ducha-aiki,2024-03-01 10:09:55+00:00,open,"bug, category: imgproc"
+25126,telecentric calibration,mynickmynick,2024-03-01 08:14:06+00:00,open,"feature, category: calib3d"
+25121,"cv2.VideoCapture(pipeline, cv2.CAP_GSTREAMER) Error",zty1122zty,2024-02-29 02:24:09+00:00,open,bug
+25118,No attribute axes in reduce onnx layer with opset13,LaurentBerger,2024-02-28 13:35:28+00:00,open,"bug, category: dnn (onnx)"
+25114,python - can't call fastnlmeansdenoisingmulti on 16 bit frames from video,dhalnon,2024-02-27 23:46:10+00:00,open,bug
+25113,Python API: Support MemoryView objects,cassianokc,2024-02-27 20:25:44+00:00,open,"feature, category: python bindings"
+25112,Default DNN backend not set correctly,CSBVision,2024-02-27 13:25:19+00:00,open,"bug, category: build/install, category: dnn"
+25110,Implement int/int64 support in Vulkan backend for DNN,asmorkalov,2024-02-27 08:27:32+00:00,open,"feature, category: dnn (onnx)"
+25104,cv2.solvePnPRansac may be buggy,martinakos,2024-02-26 12:40:26+00:00,open,"bug, category: calib3d"
+25094,solvePnP SOLVEPNP_ITERATIVE falsely indicates success in simple test case,BenjaminPelletier,2024-02-26 01:40:17+00:00,open,"bug, category: calib3d, confirmed"
+25068,Number of scales in DISFlow,jeffwitz,2024-02-22 08:02:36+00:00,open,"feature, category: video"
+25057,Build opencv.js can not use,1009058470,2024-02-21 06:16:15+00:00,open,"bug, category: javascript (js)"
+25052,Windows ARM build is broken for FP16 arithmetics,asmorkalov,2024-02-20 09:39:52+00:00,open,"bug, optimization, category: build/install, platform: win32, platform: arm"
+25049,bmp file returning None instead of np array,kevin-vitro,2024-02-19 17:13:53+00:00,open,"feature, priority: low, category: imgcodecs"
+25047,[Documentation] Revise calib3d main page,opencv-alalek,2024-02-19 05:38:51+00:00,open,"category: documentation, RFC"
+25043,Fix bias in HoughLines with even number of rho discretization steps #25038,Adi-gitX,2024-02-16 22:16:02+00:00,open,"bug, category: imgproc"
+25040,Request to community: please help us to choose minimum C++ standard for OpenCV 5.0,vpisarev,2024-02-16 16:12:37+00:00,open,"feature, vote, evolution, community help requested, OpenCV5"
+25038,Biased result when calling HoughLines with even number of disretization steps for rho,alaweber,2024-02-16 13:56:38+00:00,open,"bug, category: imgproc"
+25033, Add border value parameter for border mode constant to Sobel,asmorkalov,2024-02-15 17:32:33+00:00,open,"feature, category: imgproc"
+25032,Add border value parameter for border mode constant to GaussianBlur,asmorkalov,2024-02-15 17:31:50+00:00,open,feature
+25029,Generalized Histogram Thresholding,mcamurri,2024-02-15 12:58:57+00:00,open,"feature, category: contrib"
+25027,video(test): filter very long debug tests,opencv-alalek,2024-02-15 07:25:22+00:00,open,"test, category: video"
+25025,Introducing non-CPU HAL for OpenCV 5+,vpisarev,2024-02-14 14:23:07+00:00,open,"feature, evolution, OpenCV5"
+25022,WIP: Add Charuco board support to multiview calibration sample (C++),asmorkalov,2024-02-14 12:33:56+00:00,open,"category: calib3d, category: samples"
+25019,New CPU HAL for OpenCV 5.0,vpisarev,2024-02-13 21:09:42+00:00,open,"feature, evolution, OpenCV5"
+25018,cv2.inter_linear_exact behaves differently on m2 vs intel.,enochxu,2024-02-13 18:24:10+00:00,open,"bug, category: imgproc, needs investigation"
+25014,Segmentation fault with connected components with large images (37564 x 73862 pxl),nikste,2024-02-13 11:01:08+00:00,open,"bug, category: imgproc"
+25013,`detail_BundleAdjusterRay` error: `error: (-215:Assertion failed) !err.empty() in function 'update'`,justinTM,2024-02-13 01:18:16+00:00,open,bug
+25012,New shiny Imgproc module for OpenCV 5.0,vpisarev,2024-02-12 22:38:40+00:00,open,"feature, evolution, OpenCV5"
+25011,New shiny Core module for OpenCV 5.0,vpisarev,2024-02-12 20:40:23+00:00,open,"feature, evolution, OpenCV5"
+25007,Big OpenCV Cleanup,vpisarev,2024-02-12 15:10:51+00:00,open,"feature, cleanup"
+25006,Clean samples,vpisarev,2024-02-12 15:04:50+00:00,open,"feature, cleanup"
+25005,Modernize CMake to CMake3,Ryanf55,2024-02-12 14:35:45+00:00,open,"category: build/install, RFC"
+25002,Clean Core module,vpisarev,2024-02-12 14:01:22+00:00,open,"feature, cleanup"
+25001,Clean Imgproc module,vpisarev,2024-02-12 13:26:57+00:00,open,"feature, cleanup"
+25000,Move G-API to opencv_contrib or into a separate repository at github/opencv,vpisarev,2024-02-12 13:02:05+00:00,open,"feature, RFC, cleanup"
+24999,"Clean Features2D, rename it to Features",vpisarev,2024-02-12 12:36:31+00:00,open,"feature, cleanup"
+24998,Replace FLANN w. nanoflann/Annoy and merge it with Features[2D],vpisarev,2024-02-12 12:23:15+00:00,open,"feature, cleanup"
+24996,Move IPP to opencv/3rdparty (just like Carotene),vpisarev,2024-02-12 11:57:24+00:00,open,"feature, cleanup"
+24995,Remove OpenVX,vpisarev,2024-02-12 11:54:38+00:00,open,"feature, cleanup"
+24994,use standard C++ types in API,vpisarev,2024-02-12 11:51:05+00:00,open,"feature, cleanup"
+24986,Opencv.js --threads how to compleatly release memory when refreshing page?,Jove125,2024-02-09 17:41:17+00:00,open,"bug, category: javascript (js)"
+24978,All different shapes of circles depending on the method,dandyrilla,2024-02-08 08:28:52+00:00,open,question (invalid tracker)
+24971,findCirclesGrid can't detect some asymmetric grids,AleksandrPanov,2024-02-06 09:51:50+00:00,open,"bug, category: calib3d"
+24970,invalid JS export generated,simonbuehler,2024-02-06 09:12:25+00:00,open,"category: javascript (js), community help requested"
+24966,HDR CalibrateDebevec: triangleWeights() should be 0 at limits,marcop777,2024-02-05 13:38:37+00:00,open,"bug, category: photo"
+24963,Logical defect in FilterSpecklesImpl,CanCanZeng,2024-02-05 03:33:36+00:00,open,"bug, category: calib3d"
+24957,5.x: Recreate deleted C-API tests in C++,mshabunin,2024-02-02 19:27:18+00:00,open,"bug, test, category: imgproc, category: video"
+24939,"GpuMat::convertTo( cv::cuda::GpuMat, CV_16FC3); ",hagorms,2024-01-29 13:45:54+00:00,open,category: gpu/cuda (contrib)
+24937,OpenCV 4.9.0 Huawei CANN support error: CANN graph check failed in function 'compileCannGraph',science09,2024-01-29 11:04:07+00:00,open,"bug, category: dnn"
+24927,Fix rectangle rounding in cvGetOptimalNewCameraMatrix.,vrabaud,2024-01-26 12:54:14+00:00,open,"bug, category: calib3d"
+24924,[ERROR:0@0.391] global obsensor_uvc_stream_channel.cpp:159 cv::obsensor::getStreamChannelGroup Camera index out of range.... THIS IS THE ERROR IM FACING WHAT SHOULD I DO TO SOLVE IT,atharva-karval,2024-01-26 05:46:55+00:00,open,invalid
+24914,DNN: Overflow Errors with large image sizes,dbrenn74,2024-01-23 16:06:57+00:00,open,"bug, RFC, category: dnn, confirmed, effort: ∞"
+24909,Deprecate convertFp16() in favor of convertTo() with CV_16F,opencv-alalek,2024-01-23 06:51:49+00:00,open,"category: core, RFC"
+24908,Drop matrix expressions support in 5.x branch,asmorkalov,2024-01-23 06:41:31+00:00,open,"category: core, RFC, evolution"
+24907,Incorrect convex hull for contour.,ZhivaevDmitry,2024-01-22 16:56:30+00:00,open,"bug, category: imgproc, needs investigation"
+24902,Make BarcodeDetector resolution invariant,cristidbr-adapta,2024-01-22 11:50:37+00:00,open,feature
+24901,Document cv::Mat::type bits layout,asmorkalov,2024-01-22 10:24:11+00:00,open,category: documentation
+24894,core: Failed Core_Xor/ElemWiseTest.accuracy in debug build (5.x),Kumataro,2024-01-21 01:40:10+00:00,open,"bug, category: core, confirmed"
+24891,cv::cartToPolar does not support inplace processing,chacha21,2024-01-19 17:00:15+00:00,open,"optimization, priority: low, category: core"
+24887,"Extend norm() function to support new types: CV_64U, CV_64S and CV_32U",Kumataro,2024-01-19 09:08:13+00:00,open,feature
+24886,ipa size,William-Friday,2024-01-19 07:08:33+00:00,open,"wontfix, effort: ∞"
+24871,Most hand-eye calibration methods don't work,JStech,2024-01-16 21:43:09+00:00,open,"bug, category: calib3d, needs investigation"
+24866,i am using flask for my vedio streeming and my opencv version is 3.6.0 i have this error how to solve this,arjunrose,2024-01-16 06:46:03+00:00,open,question (invalid tracker)
+24863,samples\opencl\opencl-opencv-interop.cpp build error.,dbyoung720,2024-01-16 03:31:36+00:00,open,bug
+24856,undefined reference to `__aarch64_ldadd8_acq_rel - Opencv 4.9.0,kevinzezel,2024-01-13 01:00:31+00:00,open,"bug, category: build/install, platform: android, platform: arm"
+24855,Support image animations,vrabaud,2024-01-12 13:42:47+00:00,open,"feature, GSoC"
+24853,FAST cv2.KeyPoint,sensoryfox,2024-01-12 10:09:58+00:00,open,"feature, category: python bindings"
+24844,Make use of C++11 std::aligned_alloc where available,georgthegreat,2024-01-10 15:18:39+00:00,open,"category: core, pr: Discussion Required"
+24836,Memory Accumulation on FaceDetectorYN class,xtr0d3m0n,2024-01-09 11:23:32+00:00,open,"bug, category: objdetect, incomplete"
+24831,ROI returned by cvGetOptimalNewCameraMatrix has wrong width & height,devernay,2024-01-08 19:25:34+00:00,open,"bug, category: calib3d, needs investigation"
+24825,OpenCV core shared library load speed is extremely slow,brr53,2024-01-07 21:09:02+00:00,open,bug
+24822,imgcodecs: Support Quite OK Image Format,Kumataro,2024-01-07 07:15:50+00:00,open,"feature, category: imgcodecs, category: 3rdparty"
+24821,imgcodecs: Support Quite OK Image format(QOI),Kumataro,2024-01-07 06:54:41+00:00,open,feature
+24816,Same code work well in Android App，but error in adb shell,ZengOwen,2024-01-06 15:15:03+00:00,open,"bug, platform: android"
+24802,build error on x86_64,fatalfeel,2024-01-02 05:29:51+00:00,open,"bug, category: build/install"
+24795,imwrite_('1.jpg'): can't write data: unknown exception,JianJingGao,2023-12-29 07:06:43+00:00,open,question (invalid tracker)
+24791,Add cv::resize to copyFromOV to fix gaze_estimation_demo with API2.0,DariaMityagina,2023-12-28 18:40:48+00:00,open,category: g-api / gapi
+24787,cv2.VideoWriter fails to write *.mp4 video files,yurivict,2023-12-28 08:15:43+00:00,open,question (invalid tracker)
+24785,dnn: remove Darknet importer for 5.0,WanliZhong,2023-12-27 16:55:07+00:00,open,"category: dnn, cleanup, OpenCV5"
+24772,avcodec_get_context_defaults3 from ffmpeg is deprecated,ywangwxd,2023-12-26 11:20:29+00:00,open,"bug, category: videoio"
+24762,G-API: MSVS 2019 32-bit build warnings (2023-12-25),opencv-alalek,2023-12-25 03:14:22+00:00,open,"bug, category: build/install, category: g-api / gapi"
+24757,"ARMv7 With NEON, ""Imgproc_Hist_Compare"" is failed.",Kumataro,2023-12-24 04:34:03+00:00,open,"bug, platform: arm"
+24756,dnn cann: support more operators for SAM,fengyuentau,2023-12-23 09:50:36+00:00,open,"feature, category: dnn, category:dnn_cann"
+24748,"video stream stiching ,error : stiching failed status :3",Aashka1,2023-12-22 11:26:13+00:00,open,bug
+24731,Java test org.opencv.test.calib3d.Calib3dTest sporadically fails on CI,asmorkalov,2023-12-21 07:27:07+00:00,open,"bug, category: calib3d"
+24722,Video stream stitching,d597797974,2023-12-20 06:44:39+00:00,open,feature
+24707,Access violation under Windows 11 but not with Windows 10,sjmgarnier,2023-12-17 14:48:18+00:00,open,"bug, priority: low"
+24691,Yolo Object Detection API,Abdurrahheem,2023-12-12 18:35:43+00:00,open,"RFC, category: dnn"
+24690,ORB rejecting keypoints detected by SURF when they are close to the edge of the image.,nolan-sldprt,2023-12-12 15:22:05+00:00,open,"bug, category: features2d"
+24687,VideoCapture with CAP_ANDROID generates RGB frames instead of BGR,alexlyulkov,2023-12-12 07:42:39+00:00,open,"bug, category: videoio, platform: android"
+24686,Unify build.gradle generation for Android projects,asmorkalov,2023-12-12 06:18:46+00:00,open,"category: build/install, platform: android, cleanup"
+24682,Java multi-threaded call to org.opencv.imgproc.Imgproc.findContours causes the runtime environment to crash,lin-mt,2023-12-11 08:31:31+00:00,open,"bug, incomplete, needs reproducer"
+24676,calibrateCameraCharuco assertion failure fabs(sc) > DBL_EPSILON,rgov,2023-12-10 11:24:07+00:00,open,"bug, category: objdetect"
+24661,How to prohibit changing the aspect ratio of opencv window?,xeeetu,2023-12-07 09:28:35+00:00,open,feature
+24656,prefix in pc file not correct,OopsLouie,2023-12-06 08:34:02+00:00,open,category: build/install
+24650,VitTracker return all BB and scores,arielkantorovich,2023-12-05 13:18:39+00:00,open,"feature, category: dnn"
+24646,Floating point exception when qrcode.detect...,songshuang8,2023-12-05 03:13:24+00:00,open,"bug, category: objdetect"
+24638,HoughLinesPointSet not work,EXing,2023-12-04 08:22:41+00:00,open,
+24637,"If there is no stream,Video capture hanging the application and not returning any value.",swathyy,2023-12-04 07:19:08+00:00,open,
+24626,undefined symbol: google::protobuf,emirdeliz,2023-11-30 13:55:41+00:00,open,"bug, incomplete, category: javascript (js)"
+24603,remap with maps as vectors rather than coordinates.,chacha21,2023-11-27 19:03:22+00:00,open,"feature, category: imgproc"
+24602,cuda::remap() returns different results from cv::remap(),chacha21,2023-11-27 18:09:37+00:00,open,"bug, category: imgproc, category: gpu/cuda (contrib)"
+24580,"Extand primitive core operations to support new types: CV_16BF, CV_Bool, CV_64U, CV_64S and CV_32U",asmorkalov,2023-11-23 06:33:51+00:00,open,"feature, category: core"
+24571,crash when using CvVideoCamera,moshiwu,2023-11-22 07:50:16+00:00,open,bug
+24570,OPENCV_FFMPEG_WRITER_OPTIONS aren't executed by ffmpeg backend,nji9nji9,2023-11-21 17:54:58+00:00,open,"bug, category: videoio"
+24564,change binarization in findChessboardCorners(),thewoz,2023-11-20 16:04:54+00:00,open,category: calib3d
+24559,Cannot load the paddleocr v3 model after converted to onnx,stereomatchingkiss,2023-11-20 10:27:55+00:00,open,"bug, confirmed, category: dnn (onnx)"
+24551,Realsense Camera: Cannot open camera and Camera out of index,Anthonia2001,2023-11-16 04:26:04+00:00,open,"bug, category: videoio(camera)"
+24550,(-215:Assertion failed) inv_scale_x > 0 in function 'resize',JohnLoveMm,2023-11-16 03:15:47+00:00,open,"category: imgproc, incomplete"
+24545,VideoCapture not working on Android. Missing Availability of Pre-Built OpenCV Android SDK with FFmpeg,mulib,2023-11-15 11:36:28+00:00,open,"feature, category: videoio, platform: android"
+24543,Unable to load ONNX model,nawinrajkumar,2023-11-15 08:53:31+00:00,open,incomplete
+24542,VideoWriter quality property causes open to fail,johndavidpearce,2023-11-15 07:06:36+00:00,open,"question (invalid tracker), category: videoio"
+24541,eigen2cv data type conversion,rejahn,2023-11-14 11:46:04+00:00,open,feature
+24538,Thread sanitizer reports data race in imencode for JPEG format,MattC11,2023-11-14 03:50:10+00:00,open,"bug, category: imgcodecs"
+24537,Data Race in BFMatcher::knnMatch Function,K4I97,2023-11-13 10:24:36+00:00,open,"bug, category: features2d"
+24532,Implemented ocl INTER_LINEAR_EXACT resize,kallaballa,2023-11-13 07:08:53+00:00,open,"optimization, category: imgproc, category: ocl, incomplete, pr: needs test"
+24525,No mechanism to specify per-architecture CPU_DISPATCH for universal macOS builds,smissan,2023-11-10 16:56:13+00:00,open,"bug, category: build/install, platform: ios/osx"
+24523,cv2.error: OpenCV(4.8.1) /io/opencv/modules/dnn/src/onnx/onnx_importer.cpp:1083: error: (-2:Unspecified error) in function 'handleNode',an1ya1,2023-11-10 14:42:59+00:00,open,bug
+24518,Vector Subscript out of range 4.7.0,ycxia,2023-11-10 08:54:37+00:00,open,
+24516,"save the same frame use opencv and ffmpeg,   the image pixls is difference",steven-spec,2023-11-09 08:36:53+00:00,open,question (invalid tracker)
+24514,"i want use opencv with jdk 17 at android platform, what should i do ?",VocientLuo,2023-11-09 01:00:35+00:00,open,question (invalid tracker)
+24507,Error While Building Opencv 4.7 from source in windows 10,shubham-mishra-verificient,2023-11-07 11:30:08+00:00,open,"question (invalid tracker), category: build/install"
+24506,windows7 install opencv with cuda error,ycxia,2023-11-07 09:17:35+00:00,open,"question (invalid tracker), category: build/install, category: gpu/cuda (contrib), platform: win32"
+24505,Java cv::dnn::TextDetectionModel_DB error Expression: vector subscript out of range,123467895,2023-11-07 08:37:34+00:00,open,"bug, category: java bindings, incomplete, platform: win32"
+24503,OpenGL support (drawing functions).,zirid,2023-11-07 02:35:52+00:00,open,feature
+24502,Opencv OpenGL support ,zirid,2023-11-07 00:41:42+00:00,open,"category: documentation, incomplete"
+24494,Missing HAVE_OPENMP in cvconfig.h,llzz97,2023-11-03 20:06:49+00:00,open,"bug, category: core, category: build/install"
+24491,Refactor file I/O for optimization and Unicode support,CSBVision,2023-11-03 10:41:33+00:00,open,"feature, category: core"
+24489,"When running the C++OpenCV code on RK3588 hardware, the program was able to run normally before, but would occasionally crash at some point. The Log showed that the error occurred in the   CV::Mat::Copyto.::upload functiong",JackIRose,2023-11-03 09:44:39+00:00,open,"bug, category: ocl, platform: arm"
+24481,Levenberg-Marquardt API Custom Step Function,goktugyildirim4d,2023-11-02 07:51:17+00:00,open,feature
+24470,Enabling OpenEXR after python module import,martinResearch,2023-10-30 18:12:55+00:00,open,feature
+24469,[opencv-python] `cv2.split` changed output type from `list` to `tuple` in 4.5.4.58,rassie,2023-10-30 15:00:23+00:00,open,"bug, category: python bindings"
+24467,Java HighGui.waitKey Erratically Ignores Key Presses,tom131313,2023-10-29 18:06:25+00:00,open,"bug, category: java bindings"
+24449,OpenCV Java SDK not building in React Native app as Native Module: android packages and symbols not existing,WesselvanDam,2023-10-25 09:39:39+00:00,open,"bug, category: build/install, platform: android"
+24444,fix race condition in oclCvtColorBGR2HSV (color_hsv.dispatch.cpp) by using  a mutex,kallaballa,2023-10-24 11:52:00+00:00,open,"bug, category: imgproc, category: ocl"
+24443,Use static thread_local instead of a function scope static variables in oclCvtColorBGR2HSV (color_hsv.dispatch.cpp),kallaballa,2023-10-24 11:45:32+00:00,open,"bug, category: imgproc, category: ocl"
+24439,STMAP exporter,bhack,2023-10-23 14:14:54+00:00,open,feature
+24436,why opencv change minAreaRect returned angle from -90~0 to 0~90,DDGRCF,2023-10-23 02:24:58+00:00,open,"duplicate, category: documentation, incomplete"
+24433,fix findContours in SimpleBlobDetector,AleksandrPanov,2023-10-20 14:00:55+00:00,open,"bug, category: imgproc, category: documentation, pr: needs test"
+24430,Your platform doesn't suppport hardware accelerated AV1 decoding. Failed to get pixel format.,MardenSSS,2023-10-20 05:05:00+00:00,open,"bug, category: videoio, incomplete"
+24428,Res10_300x300_ssd_iter_140000_fp16 github,tewodrosasfaw,2023-10-19 11:58:29+00:00,open,"category: documentation, incomplete"
+24426,Consider QRCode ECI encoding,dkurt,2023-10-18 20:07:22+00:00,open,"category: objdetect, RFC"
+24423,java opencv_imgproc.getPerspectiveTransform mat；A fatal error has been detected by the Java Runtime Environment,Arjen-ai,2023-10-18 07:20:12+00:00,open,"bug, category: imgproc, category: java bindings"
+24414,Partially ported dnn resize_layer to T-API,kallaballa,2023-10-16 14:05:48+00:00,open,"optimization, category: dnn"
+24413,Partially porting dnn resize_layer to T-API,kallaballa,2023-10-16 13:30:12+00:00,open,feature
+24400,VideoCapture add support for byte buffer  ,gdippolito,2023-10-13 15:13:07+00:00,open,"feature, category: videoio"
+24394,Problem with cv2.triangulatePoints,mike-roadia,2023-10-12 18:43:26+00:00,open,"bug, category: python bindings, category: calib3d"
+24389,Flipped Faces Resulting in Inconsistent Feature Generation in SFacerecognizer.aligncrop(),ojas-doshi,2023-10-12 06:53:35+00:00,open,bug
+24388,SimpleBlobDetector finds incorrect blob center for inverted image,devbanu,2023-10-11 21:45:10+00:00,open,"bug, category: calib3d, confirmed"
+24379,G-API: Introduce some classic CV ops via OV backend,dmatveev,2023-10-10 06:48:23+00:00,open,
+24360,"opencv-python tutorials: mention ""pip install opencv-python""",crackwitz,2023-10-04 19:42:19+00:00,open,category: documentation
+24358,Test for Core_DotProduct.accuracy fails on RISC-V RVV,hanliutong,2023-10-04 09:46:18+00:00,open,"bug, platform: riscv"
+24340,Survey: Open-Source Documentation for Newcomers,nursenakrbs,2023-09-28 19:29:57+00:00,open,category: documentation
+24332,[security] Automated releases,gabibguti,2023-09-27 20:18:15+00:00,open,"feature, category: infrastructure"
+24326,changed UMataData allocatorContext to OpenCLExecutionContext,kallaballa,2023-09-27 07:16:32+00:00,open,"feature, category: ocl, pr: needs test"
+24321,Unable to disable Opencv FFMPEG error logs,nafisatdeen,2023-09-26 06:07:35+00:00,open,question (invalid tracker)
+24313,"Exception: OpenCV(4.8.0) /home/ci/opencv/modules/imgproc/src/filterengine.hpp:367: error: (-215:Assertion failed) anchor.inside(Rect(0, 0, ksize.width, ksize.height)) in function 'normalizeAnchor'",WaseemAbbasi22,2023-09-24 17:57:05+00:00,open,question (invalid tracker)
+24307,Possible to install conflicting versions of opencv alongside each other,b0ggyb33,2023-09-21 08:34:59+00:00,open,"question (invalid tracker), category: build/install"
+24290,Promote colorspace information from decoder to swscale in FFmpeg backend,asmorkalov,2023-09-18 14:19:36+00:00,open,category: videoio
+24287,videoio inferace write return void,jia0511,2023-09-18 13:37:27+00:00,open,"bug, category: videoio"
+24276,cv::dnn::blobFromImage() used in C++ show different performance on windows and liunx platforms,ThomasCai,2023-09-15 08:46:33+00:00,open,"optimization, incomplete, category: dnn"
+24273,OpenCV Python import issue on Windows 10,dmatveev,2023-09-15 07:19:55+00:00,open,question (invalid tracker)
+24272,MSER type result are differents according to vector shape,loupdmer,2023-09-14 20:37:50+00:00,open,"bug, category: python bindings"
+24265,Cast with incorrect alignment,kpeeters,2023-09-13 14:36:39+00:00,open,category: build/install
+24264,"Linux,centos7,opencv4.7.0,videoCapture.isOpened() always is false!",cgf120,2023-09-13 11:54:28+00:00,open,"invalid, incomplete"
+24258,Cannot read multi spectral tiff images,mbenguig,2023-09-12 11:51:55+00:00,open,"feature, priority: low, category: imgcodecs"
+24241,[docs] Canny edge detector: `L2Gradient=True` arg description seems to not perfectly match the code,vadimkantorov,2023-09-07 15:32:21+00:00,open,"category: imgproc, category: documentation"
+24226,BackgroundSubtractorKNN does not respect a zero learning rate (same with GSOC and LSBP),ArdooTala,2023-09-05 12:50:43+00:00,open,"bug, category: video"
+24219,"""ImportError: DLL load failed while importing cv2: The specified module could not be found"" when install fiftyone",QuocThinh2312,2023-09-04 17:11:40+00:00,open,"bug, category: python bindings, category: build/install, platform: win32"
+24212,"Error ""Invalid SOS parameters for sequential JPEG"" when use opencv-python",lnhutnam,2023-09-01 09:38:19+00:00,open,"wontfix, category: 3rdparty"
+24208,Ubuntu20.04 opencv-5.4.3+ AARCH64-Linux-G ++(version 7.4.1) cross-compilation environment was built and failed to be configured using cmake-gui,yuzhimin999,2023-08-31 09:24:08+00:00,open,"category: build/install, incomplete"
+24197,Pointcloud Compression Implementation in 3d module.,broweigit,2023-08-27 08:30:50+00:00,open,"GSoC, category: 3d module"
+24193,Add fuzztests,vrabaud,2023-08-24 11:55:51+00:00,open,
+24192,"I can't find struct ""IplImage"" in iOS version 4.6 ",Goallying,2023-08-24 08:44:52+00:00,open,"question (invalid tracker), wontfix"
+24190,android static libs zlib missing,dailylama,2023-08-23 09:03:42+00:00,open,bug
+24185,VideoCapture: wrong colors with BT2020 (HDR) colorspace videos,Kepnu4,2023-08-22 08:40:07+00:00,open,"bug, category: videoio"
+24184,Invalid memory access when writing CV_8U FFV1 videos,jenadzitsiuk,2023-08-21 14:53:43+00:00,open,"wontfix, category: 3rdparty"
+24183,about nvidia MIG,opentld,2023-08-21 08:12:02+00:00,open,question (invalid tracker)
+24175,The opencv dnn module with cuda can't work correctly,cos888888,2023-08-18 08:57:35+00:00,open,"bug, category: gpu/cuda (contrib), category: dnn"
+24170,AVFoundation as the VideoCapture backend API will `read()` out weird frame data.,AtomicVar,2023-08-17 07:15:55+00:00,open,"bug, category: videoio, platform: ios/osx"
+24165,Different coefficient in cubic resize,Ginkgo-Biloba,2023-08-16 14:00:26+00:00,open,"feature, category: gpu/cuda (contrib), RFC"
+24161,Segmentation fault when mixing with Blender #371,LuizVSilva,2023-08-15 19:10:35+00:00,open,"bug, category: 3rdparty"
+24159,Opencv barcode::detect does not work for these two image.,linarin,2023-08-15 06:47:33+00:00,open,"bug, category: objdetect"
+24152,The fisheye module does not contain a solvePnP() function,victor1234,2023-08-14 10:04:47+00:00,open,"feature, category: documentation, category: calib3d"
+24151,Add resizeOnnx,Ginkgo-Biloba,2023-08-13 11:20:51+00:00,open,RFC
+24135,GaussianBlur Performance Difference between OpenCV 3.3.0 and OpenCV 4.7.0,christian1steinmetz,2023-08-09 15:27:44+00:00,open,"question (invalid tracker), incomplete"
+24134,DNN inference is using 3.5 time more memory for 4.8.0 when compared to 4.5.2,ukoehler,2023-08-09 12:11:21+00:00,open,"optimization, category: dnn"
+24129,cv::compare() and cv::cuda::compare() might give different result,chacha21,2023-08-08 14:10:37+00:00,open,"bug, category: gpu/cuda (contrib)"
+24124,Memory Leak with CascadeClassifier,takmin,2023-08-08 08:03:19+00:00,open,"bug, category: objdetect"
+24121,Disable TrueType in OpenCV 5.x during CMake compilation,aabilityuk,2023-08-07 22:45:57+00:00,open,"feature, category: build/install"
+24117,Inconsistent charuco board detection,victor1234,2023-08-07 12:57:31+00:00,open,"bug, category: objdetect"
+24115,RFC `cuda::Stream` - documentation issue and usage inconsistency,cudawarped,2023-08-07 12:52:25+00:00,open,
+24110,OpenCV4.8.0 dnn can not load fp16 onnx model which converts from onnxmltools,ghostlyFeng,2023-08-05 03:12:43+00:00,open,"bug, category: dnn (onnx)"
+24109,countNonZero returns 286361601 for 112x1 Mat_,smissan,2023-08-04 22:11:30+00:00,open,"bug, category: core"
+24107,cv::warpAffine function and cv::transform have different results,DimaFantasy,2023-08-04 15:57:13+00:00,open,question (invalid tracker)
+24106,Remap function in INTER_NEAREST case,yangguangzhen,2023-08-04 10:01:08+00:00,open,"bug, category: imgproc"
+24093,cv2.imread and cv2.imwrite automatically convert ICC profile from ProPhoto RGB to sRGB ,onefish51,2023-08-02 09:11:21+00:00,open,"feature, category: imgcodecs, category: 3rdparty"
+24091,Sobel XandY-combining for performance,alex77g2,2023-08-01 20:04:25+00:00,open,feature
+24088,udp streaeming using gstreamer opencv and video writer,AhmedEmadEldinHussin,2023-08-01 11:58:16+00:00,open,"question (invalid tracker), incomplete"
+24082,Non-deterministic behavior in cv2.distanceTransform(),SherifN,2023-08-01 03:20:57+00:00,open,"bug, category: imgproc, confirmed"
+24078,cv.detail.leaveBiggestComponent creates nested lists,lukasalexanderweber,2023-07-30 05:32:55+00:00,open,"bug, category: python bindings, needs reproducer"
+24075,cv::warpAffine A bug suspected to be dues to some limit of variables,Heermosi,2023-07-29 11:08:59+00:00,open,"bug, duplicate, category: imgproc"
+24073,MultiBandBlender loss of fine details,krupkat,2023-07-28 15:54:14+00:00,open,"feature, category: stitching"
+24063,Data race in cv::resize,vakokako,2023-07-26 14:05:39+00:00,open,category: 3rdparty
+24052,[GSoC23] Support of mixed model in stereo calibration and multi-view calibration,lpanaf,2023-07-24 18:30:40+00:00,open,"category: calib3d, GSoC, pr: needs test"
+24050,"Add ""initUndistortRectifyMap()"" but for a sparse array of points",Delgan,2023-07-24 16:00:25+00:00,open,feature
+24049,[G-API] Failed OV tests from CI,dkurt,2023-07-24 12:31:25+00:00,open,"bug, category: g-api / gapi"
+24048,cv2.error: OpenCV(4.8.0) /io/opencv/modules/dnn/src/net_impl.cpp:279: error: (-204:Requested object was not found) Layer with requested id=-1 not found in function 'getLayerData',zhanghanke,2023-07-23 02:43:46+00:00,open,incomplete
+24033,cv::Videowriter with Lagarith+avi impossible?,RIFJo,2023-07-20 15:45:03+00:00,open,question (invalid tracker)
+24021,Core_QR_Solver.accuracy64f test failed with ENABLE_FAST_MATH option,asmorkalov,2023-07-19 09:50:32+00:00,open,"bug, optimization, category: core"
+24020,Negative_Test/Rect_Test/*.Overflows fails for float and double with ENABLE_FAST_MATH option,asmorkalov,2023-07-19 09:46:55+00:00,open,"bug, optimization, category: core"
+24019,Core/HasNonZeroLimitValues.hasNonZeroLimitValues fails with ENABLE_FAST_MATH option,asmorkalov,2023-07-19 09:05:10+00:00,open,"bug, optimization, category: core"
+24018,Calib3d_SolvePnP.generic fails with ENABLE_FAST_MATH option,asmorkalov,2023-07-19 08:53:32+00:00,open,"bug, optimization, category: calib3d"
+24013,OpenCV memory management does not support the form of dma buf,zack-huangzihan,2023-07-19 06:23:35+00:00,open,"feature, category: core, category: videoio(camera)"
+24009,cuda stream issue when using NVCUVID,robosina,2023-07-18 07:45:42+00:00,open,"bug, category: gpu/cuda (contrib), platform: win32, needs reproducer"
+24007,(Build opencv 4.4.0)fatal error: opencv2/hdf/hdf5.hpp: No such file or directory,kk-kuang,2023-07-18 07:13:26+00:00,open,"bug, question (invalid tracker)"
+23996,can't use cuda detect onnx,nimeng1299,2023-07-15 08:34:47+00:00,open,"bug, category: gpu/cuda (contrib), category: dnn"
+23995,Need the dependency maven for the version 4.8.0,blacksadkeys,2023-07-14 18:17:36+00:00,open,feature
+23993,[Build OpenCV4.8.0] LNK2005 redefinition error when building highgui plugin,LiuPeiqiCN,2023-07-14 13:02:57+00:00,open,"bug, category: highgui-gui, platform: win32"
+23989,"HOGDescriptor produces an unuseful error message ""vector<T> too long"" if the input image is too small.",crisluengo,2023-07-13 20:34:10+00:00,open,bug
+23978,Unexpected Results with MatExpr and operator+=,pasbi,2023-07-12 08:49:47+00:00,open,"bug, category: core"
+23976,Test_Darknet_nets.YOLOv4x_mish/0 sporadically fails with Vulkan backend,asmorkalov,2023-07-12 06:33:51+00:00,open,"bug, category: dnn"
+23961,NaN values in cv::fisheye::estimateNewCameraMatrixForUndistortRectify,ivashmak,2023-07-10 22:56:10+00:00,open,"bug, category: calib3d, confirmed"
+23960,gsoc2023 bytetrack project,guanarp,2023-07-10 20:58:13+00:00,open,"category: video, GSoC, pr: needs test"
+23951,Documentation of Audio support,crackwitz,2023-07-09 12:39:14+00:00,open,category: documentation
+23942,ios 4.8 Compilation error on Mac M1,WO-ZT,2023-07-07 11:23:59+00:00,open,"bug, category: build/install, platform: ios/osx, incomplete"
+23934,Import ONNX model error DNN module,swapnilbaadStM,2023-07-05 14:18:01+00:00,open,"bug, category: dnn (onnx)"
+23930,Test_Caffe_layers.Concat/0 sporadically fails in Vulkan configuration,asmorkalov,2023-07-05 08:51:57+00:00,open,"bug, optimization, category: dnn"
+23921,optimize Mat::setTo() with memset,chacha21,2023-07-04 11:55:28+00:00,open,"optimization, category: core, pr: needs test"
+23916,stitching headers compiler warning,dustsigns,2023-07-04 07:38:18+00:00,open,"category: build/install, category: stitching"
+23913,make cuda::GpuMatND compatible with InputArray/OutputArray,chacha21,2023-07-03 16:31:07+00:00,open,"feature, category: core, category: gpu/cuda (contrib), pr: needs test"
+23911,OpenCV4.8.0 DNN inference speed reduced by 50%.,ZJDATY,2023-07-03 09:50:49+00:00,open,"optimization, category: dnn"
+23906,is that possible to change default image from BGR to RGB at 5.0 version?,zihaomu,2023-07-03 00:23:50+00:00,open,feature
+23898,Is there any way to implement the findContours function using CUDA?,sanbuphy,2023-06-30 09:49:55+00:00,open,feature
+23889,Barcode detection with EAN8 codes is not working reliably,Jimbopython,2023-06-29 05:26:25+00:00,open,"bug, category: objdetect"
+23883,cmake Could not find OpenBLAS,ZJDATY,2023-06-28 07:08:31+00:00,open,"bug, category: build/install"
+23873,Charuco board detection is not suitable for calibration?,victor1234,2023-06-26 17:00:18+00:00,open,category: objdetect
+23872, Can't parse layer for node='layer_normalization/strided_slice' of type='StridedSlice',charvey2718,2023-06-26 15:39:49+00:00,open,"bug, category: dnn, confirmed"
+23867,G-API: Enable initial JavaScript bindings,TolyaTalamanov,2023-06-25 13:56:59+00:00,open,category: javascript (js)
+23864,cv::GStreamerCapture::isPipelinePlaying OpenCV | GStreamer warning: GStreamer: pipeline have not been created,leij0318,2023-06-24 03:53:14+00:00,open,"bug, category: videoio"
+23861,"On ppc64le: warning: Implicit conversion between vector types (''vec_ushort8' (vector of 8 'unsigned short' values)' and ''const vec_uint4' (vector of 4 'unsigned int' values)') is deprecated. In the future, the behavior implied by '-fno-lax-vector-conversions' will be the default. [-Wdeprecate-lax-vec-conv-all]",pkubaj,2023-06-23 13:32:57+00:00,open,"bug, category: build/install, community help requested, platform: ppc (PowerPC)"
+23858,grabcut example not working ,ricoseeds,2023-06-23 12:23:47+00:00,open,incomplete
+23854,Opencv Exceptions disable option,kowshik1234,2023-06-23 08:23:05+00:00,open,duplicate
+23845,[Python] detectAndDecode fails to detect barcode on this image,pauljurczak,2023-06-22 06:22:06+00:00,open,"feature, category: objdetect"
+23837,[Python] getOptimalNewCameraMatrix,mganglb,2023-06-20 15:50:40+00:00,open,"bug, category: calib3d"
+23828,KCF Tracker Results different on local and Ubuntu base docker,Shiddham,2023-06-20 08:31:32+00:00,open,"bug, category: video, needs reproducer"
+23826,CMake Error at /usr/local/share/cmake-3.26/Modules/FindCUDA.cmake:1767 (file),jiapei100,2023-06-18 16:50:56+00:00,open,"bug, category: build/install, incomplete, needs reproducer"
+23824,[BUG] GitHub Actions workflow using non-working Ubuntu 18.04,Panquesito7,2023-06-16 21:32:13+00:00,open,category: infrastructure
+23817,'pyrDown_',xinsuinizhuan,2023-06-16 03:42:03+00:00,open,incomplete
+23810,Unable to decode QR Codes with particular payloads,simon-staal,2023-06-15 15:40:22+00:00,open,"bug, category: objdetect, confirmed"
+23804,Warning C4127 for a missed constexpr opportunity,chacha21,2023-06-15 09:14:24+00:00,open,"category: build/install, platform: win32"
+23803,get error camera matrix   via cv2.fisheye.estimateNewCameraMatrixForUndistortRectify ,CloudRobot,2023-06-15 07:18:52+00:00,open,bug
+23794,OpenVino 2023.0.0 and first inference speed-up,JulienMaille,2023-06-14 08:32:13+00:00,open,"feature, category: dnn"

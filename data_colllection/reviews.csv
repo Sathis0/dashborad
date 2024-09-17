@@ -1,0 +1,835 @@
+PR Number,Review Author,Review State,Submitted At,Review Body
+26090,asmorkalov,COMMENTED,2024-08-30 06:21:28+00:00,
+26090,mqcmd196,COMMENTED,2024-08-30 07:10:15+00:00,
+26090,mqcmd196,COMMENTED,2024-08-30 07:10:33+00:00,
+26090,mqcmd196,COMMENTED,2024-08-30 07:12:18+00:00,
+26090,asmorkalov,COMMENTED,2024-08-30 07:40:11+00:00,
+26057,opencv-alalek,COMMENTED,2024-08-22 10:39:53+00:00,
+26057,asmorkalov,COMMENTED,2024-08-22 13:20:09+00:00,
+26057,mshabunin,COMMENTED,2024-08-23 07:45:36+00:00,
+26057,mshabunin,COMMENTED,2024-08-23 08:49:42+00:00,
+26056,asmorkalov,COMMENTED,2024-08-22 07:45:32+00:00,
+26056,opencv-alalek,COMMENTED,2024-08-23 08:40:15+00:00,
+26056,fengyuentau,COMMENTED,2024-08-26 03:57:49+00:00,
+26056,fengyuentau,COMMENTED,2024-08-26 03:59:58+00:00,
+26056,asmorkalov,COMMENTED,2024-08-28 13:21:30+00:00,
+26056,vpisarev,COMMENTED,2024-09-01 13:27:56+00:00,
+26056,fengyuentau,COMMENTED,2024-09-02 10:09:10+00:00,
+26056,fengyuentau,COMMENTED,2024-09-02 10:11:11+00:00,
+26056,vpisarev,COMMENTED,2024-09-04 21:44:06+00:00,
+26056,vpisarev,COMMENTED,2024-09-05 18:36:11+00:00,
+26056,vpisarev,COMMENTED,2024-09-05 18:37:02+00:00,
+26056,vpisarev,COMMENTED,2024-09-05 18:38:24+00:00,
+26056,vpisarev,COMMENTED,2024-09-05 18:39:47+00:00,
+26056,vpisarev,COMMENTED,2024-09-05 18:42:01+00:00,
+25984,fengyuentau,COMMENTED,2024-08-05 08:57:08+00:00,
+25984,fengyuentau,COMMENTED,2024-08-06 08:33:09+00:00,
+25984,fengyuentau,COMMENTED,2024-08-06 08:33:22+00:00,
+25984,vpisarev,COMMENTED,2024-08-09 06:44:03+00:00,
+25984,fengyuentau,COMMENTED,2024-08-09 07:24:05+00:00,
+25984,asmorkalov,COMMENTED,2024-08-27 07:16:47+00:00,
+25984,fengyuentau,COMMENTED,2024-08-27 15:38:15+00:00,
+25984,fengyuentau,COMMENTED,2024-08-27 15:41:21+00:00,
+25984,fengyuentau,COMMENTED,2024-08-27 15:41:43+00:00,
+25984,fengyuentau,COMMENTED,2024-08-27 15:43:32+00:00,
+25984,fengyuentau,COMMENTED,2024-08-27 15:44:30+00:00,
+25984,asmorkalov,COMMENTED,2024-08-28 07:26:46+00:00,
+25984,fengyuentau,COMMENTED,2024-08-28 08:42:13+00:00,
+25984,fengyuentau,COMMENTED,2024-08-30 14:32:44+00:00,
+25984,asmorkalov,COMMENTED,2024-08-30 15:40:23+00:00,
+25984,fengyuentau,COMMENTED,2024-09-05 07:56:03+00:00,
+25984,opencv-alalek,COMMENTED,2024-09-06 07:40:44+00:00,"Changed accuracy checks in ""optimization"" PR looks very strange."
+25984,fengyuentau,COMMENTED,2024-09-06 07:49:53+00:00,
+25984,fengyuentau,COMMENTED,2024-09-06 07:53:48+00:00,
+25958,asmorkalov,COMMENTED,2024-07-26 12:01:59+00:00,
+25958,opencv-alalek,COMMENTED,2024-08-03 03:57:18+00:00,
+25951,mshabunin,COMMENTED,2024-07-30 18:02:29+00:00,
+25951,mshabunin,COMMENTED,2024-07-31 12:06:47+00:00,
+25951,mshabunin,COMMENTED,2024-07-31 12:09:12+00:00,
+25923,asmorkalov,COMMENTED,2024-07-17 09:31:27+00:00,
+25923,zihaomu,COMMENTED,2024-07-17 09:57:50+00:00,
+25923,asmorkalov,COMMENTED,2024-07-17 10:02:17+00:00,
+25923,zihaomu,COMMENTED,2024-07-17 10:14:53+00:00,
+25923,dkurt,COMMENTED,2024-07-23 08:53:09+00:00,
+25923,dkurt,COMMENTED,2024-07-23 08:54:18+00:00,
+25923,dkurt,COMMENTED,2024-07-26 06:49:01+00:00,
+25923,asmorkalov,COMMENTED,2024-08-02 11:48:34+00:00,
+25923,zihaomu,COMMENTED,2024-08-09 07:04:17+00:00,
+25923,zihaomu,COMMENTED,2024-08-09 07:12:55+00:00,
+25923,zihaomu,COMMENTED,2024-08-09 07:13:42+00:00,
+25923,zihaomu,COMMENTED,2024-08-09 07:14:24+00:00,
+25909,opencv-alalek,COMMENTED,2024-07-15 16:56:08+00:00,
+25909,gblikas,COMMENTED,2024-07-17 09:04:27+00:00,
+25891,asmorkalov,APPROVED,2024-07-09 19:01:00+00:00,
+25891,opencv-alalek,COMMENTED,2024-07-12 07:58:25+00:00,
+25891,asmorkalov,COMMENTED,2024-09-13 07:02:55+00:00,
+25891,WanliZhong,COMMENTED,2024-09-13 07:07:35+00:00,
+25891,WanliZhong,COMMENTED,2024-09-13 09:08:15+00:00,
+25715,vrabaud,COMMENTED,2024-06-25 15:17:42+00:00,"Mostly, please split the code into what was taken from upstream, and what you added, this will make it easier to update files to upstream."
+25715,sturkmen72,COMMENTED,2024-06-25 15:48:55+00:00,
+25715,sturkmen72,COMMENTED,2024-06-25 18:13:09+00:00,
+25715,sturkmen72,COMMENTED,2024-06-25 18:36:57+00:00,
+25715,sturkmen72,COMMENTED,2024-06-25 18:46:04+00:00,
+25715,vrabaud,COMMENTED,2024-06-28 13:21:52+00:00,
+25715,sturkmen72,COMMENTED,2024-07-12 12:20:30+00:00,
+25715,vrabaud,COMMENTED,2024-08-27 12:30:16+00:00,
+25710,vpisarev,APPROVED,2024-09-06 06:11:06+00:00,
+25710,vpisarev,APPROVED,2024-09-13 06:05:18+00:00,
+25710,asmorkalov,COMMENTED,2024-09-13 09:01:17+00:00,
+25708,vpisarev,COMMENTED,2024-07-10 07:20:13+00:00,
+25708,vpisarev,COMMENTED,2024-07-10 07:21:06+00:00,
+25708,vpisarev,COMMENTED,2024-07-17 06:36:45+00:00,
+25708,vpisarev,COMMENTED,2024-07-17 06:39:31+00:00,
+25708,asmorkalov,COMMENTED,2024-09-06 13:52:06+00:00,
+25691,vrabaud,COMMENTED,2024-06-03 13:37:22+00:00,
+25691,asmorkalov,COMMENTED,2024-06-10 09:11:15+00:00,
+25691,redhecker,COMMENTED,2024-06-27 01:25:56+00:00,
+25691,redhecker,COMMENTED,2024-06-27 01:26:21+00:00,
+25691,redhecker,COMMENTED,2024-06-27 01:26:35+00:00,
+25691,redhecker,COMMENTED,2024-06-27 01:26:45+00:00,
+25691,redhecker,COMMENTED,2024-06-27 08:19:38+00:00,
+25691,vrabaud,COMMENTED,2024-07-15 14:43:15+00:00,The biggest issue I see is with transparency: it seems not be handled properly. There should be an option to apply the background color or not (which would therefore return cv::Mat4b)
+25691,redhecker,COMMENTED,2024-08-18 15:09:52+00:00,
+25691,redhecker,COMMENTED,2024-08-18 15:12:46+00:00,
+25691,dkurt,COMMENTED,2024-09-12 03:01:45+00:00,
+25656,opencv-alalek,COMMENTED,2024-05-28 14:13:51+00:00,"Main repo should not know specific detail of opencv_contrib.
+Integration should be done through `modules/<name>/misc/javascript` instead."
+25656,geroldmeisinger,COMMENTED,2024-05-28 14:27:17+00:00,
+25624,savuor,COMMENTED,2024-05-28 19:53:31+00:00,
+25624,vpisarev,COMMENTED,2024-07-12 07:27:21+00:00,
+25608,vrabaud,COMMENTED,2024-06-03 13:45:16+00:00,
+25608,asmorkalov,COMMENTED,2024-06-03 17:57:35+00:00,
+25608,vrabaud,COMMENTED,2024-06-05 14:10:26+00:00,
+25608,vrabaud,COMMENTED,2024-06-05 14:11:20+00:00,
+25608,vrabaud,COMMENTED,2024-06-05 14:23:41+00:00,
+25608,vrabaud,COMMENTED,2024-06-06 12:46:37+00:00,
+25608,vrabaud,COMMENTED,2024-06-06 12:54:43+00:00,
+25608,vrabaud,COMMENTED,2024-06-19 09:14:11+00:00,
+25608,sturkmen72,COMMENTED,2024-07-04 15:22:12+00:00,
+25608,sturkmen72,COMMENTED,2024-07-05 11:05:06+00:00,
+25608,vrabaud,COMMENTED,2024-07-08 14:35:53+00:00,"Very nice, great progress on WebP and common API !"
+25608,sturkmen72,COMMENTED,2024-07-11 09:38:39+00:00,
+25608,vrabaud,COMMENTED,2024-07-13 07:24:12+00:00,
+25608,vrabaud,COMMENTED,2024-07-13 07:35:01+00:00,
+25608,sturkmen72,COMMENTED,2024-07-13 11:02:33+00:00,
+25608,vrabaud,COMMENTED,2024-07-15 13:47:38+00:00,
+25608,vrabaud,COMMENTED,2024-07-15 13:50:53+00:00,
+25608,vrabaud,COMMENTED,2024-07-15 13:52:41+00:00,
+25608,vrabaud,COMMENTED,2024-07-15 13:54:53+00:00,
+25608,sturkmen72,COMMENTED,2024-07-15 14:23:58+00:00,
+25608,sturkmen72,COMMENTED,2024-07-15 14:50:18+00:00,
+25608,sturkmen72,COMMENTED,2024-07-15 15:45:59+00:00,
+25608,vrabaud,COMMENTED,2024-07-17 13:54:52+00:00,
+25608,vrabaud,COMMENTED,2024-07-17 15:00:02+00:00,
+25608,vrabaud,COMMENTED,2024-07-17 15:11:36+00:00,
+25608,sturkmen72,COMMENTED,2024-08-27 09:21:47+00:00,
+25608,vrabaud,COMMENTED,2024-08-27 12:31:30+00:00,
+25608,sturkmen72,COMMENTED,2024-09-05 17:56:54+00:00,
+25608,vrabaud,COMMENTED,2024-09-10 11:13:01+00:00,
+25608,sturkmen72,COMMENTED,2024-09-10 19:54:58+00:00,
+25597,asmorkalov,COMMENTED,2024-07-12 13:31:20+00:00,
+25584,opencv-alalek,COMMENTED,2024-05-17 07:29:21+00:00,Plugin support is necessary - it is mandatory for FFmpeg support on Windows.
+25584,opencv-alalek,COMMENTED,2024-05-19 09:58:26+00:00,
+25584,dkurt,COMMENTED,2024-06-05 06:01:04+00:00,
+25581,asmorkalov,COMMENTED,2024-08-21 06:22:45+00:00,
+25581,WanliZhong,COMMENTED,2024-08-21 06:30:53+00:00,
+25581,opencv-alalek,COMMENTED,2024-08-21 07:16:20+00:00,
+25569,asmorkalov,COMMENTED,2024-06-18 15:31:54+00:00,
+25569,FantasqueX,COMMENTED,2024-06-25 14:50:47+00:00,
+25569,opencv-alalek,COMMENTED,2024-07-01 18:01:15+00:00,
+25569,FantasqueX,COMMENTED,2024-07-02 03:17:58+00:00,
+25569,FantasqueX,COMMENTED,2024-07-02 03:29:13+00:00,
+25548,WanliZhong,COMMENTED,2024-05-17 08:30:06+00:00,
+25500,opencv-alalek,COMMENTED,2024-04-28 11:56:11+00:00,
+25500,alex-urm,COMMENTED,2024-04-28 12:49:07+00:00,
+25394,dkurt,COMMENTED,2024-04-12 06:31:13+00:00,
+25394,dkurt,COMMENTED,2024-04-12 06:33:44+00:00,
+25394,Gao-HaoYuan,COMMENTED,2024-04-12 07:16:37+00:00,
+25394,dkurt,COMMENTED,2024-04-12 07:49:58+00:00,
+25394,Gao-HaoYuan,COMMENTED,2024-04-12 07:55:26+00:00,
+25394,dkurt,COMMENTED,2024-04-12 08:57:04+00:00,
+25394,Gao-HaoYuan,COMMENTED,2024-04-12 09:59:45+00:00,
+25394,dkurt,COMMENTED,2024-04-12 12:02:56+00:00,
+25394,Gao-HaoYuan,COMMENTED,2024-04-13 12:28:05+00:00,
+25394,Gao-HaoYuan,COMMENTED,2024-04-13 12:31:56+00:00,
+25394,Gao-HaoYuan,COMMENTED,2024-04-13 12:33:15+00:00,
+25394,Gao-HaoYuan,COMMENTED,2024-04-13 12:47:03+00:00,
+25394,dkurt,COMMENTED,2024-04-14 07:39:43+00:00,
+25394,dkurt,COMMENTED,2024-04-14 07:43:36+00:00,
+25394,dkurt,COMMENTED,2024-04-14 07:46:23+00:00,
+25394,Gao-HaoYuan,COMMENTED,2024-04-14 13:15:04+00:00,
+25394,Gao-HaoYuan,COMMENTED,2024-04-14 13:19:50+00:00,
+25394,Gao-HaoYuan,COMMENTED,2024-04-14 13:47:05+00:00,
+25394,vpisarev,COMMENTED,2024-04-17 11:29:18+00:00,
+25394,Gao-HaoYuan,COMMENTED,2024-07-15 09:50:41+00:00,
+25394,vpisarev,COMMENTED,2024-07-24 13:58:38+00:00,
+25394,vpisarev,COMMENTED,2024-07-24 14:00:33+00:00,
+25394,vpisarev,COMMENTED,2024-07-24 14:01:30+00:00,
+25394,vpisarev,COMMENTED,2024-07-24 14:06:09+00:00,
+25394,Gao-HaoYuan,COMMENTED,2024-07-29 10:33:40+00:00,
+25394,Gao-HaoYuan,COMMENTED,2024-07-29 10:33:49+00:00,
+25394,Gao-HaoYuan,COMMENTED,2024-07-29 11:16:37+00:00,
+25394,Gao-HaoYuan,COMMENTED,2024-07-29 11:16:48+00:00,
+25394,Gao-HaoYuan,COMMENTED,2024-07-29 11:17:01+00:00,
+25349,asmorkalov,COMMENTED,2024-04-09 12:58:15+00:00,
+25349,gursimarsingh,COMMENTED,2024-04-10 15:37:12+00:00,
+25349,gursimarsingh,COMMENTED,2024-04-10 15:37:58+00:00,
+25349,asmorkalov,COMMENTED,2024-04-11 11:16:37+00:00,
+25349,asmorkalov,COMMENTED,2024-04-11 11:27:17+00:00,
+25349,gursimarsingh,COMMENTED,2024-04-12 14:36:07+00:00,
+25349,gursimarsingh,COMMENTED,2024-04-12 14:37:26+00:00,
+25349,asmorkalov,COMMENTED,2024-04-15 06:20:15+00:00,
+25349,asmorkalov,APPROVED,2024-04-15 12:51:46+00:00,
+25349,mshabunin,COMMENTED,2024-04-16 21:24:16+00:00,
+25349,gursimarsingh,COMMENTED,2024-04-17 10:38:39+00:00,
+25349,mshabunin,COMMENTED,2024-04-19 10:58:00+00:00,
+25349,gursimarsingh,COMMENTED,2024-04-19 13:23:13+00:00,
+25349,gursimarsingh,COMMENTED,2024-04-19 14:16:49+00:00,
+25349,mshabunin,COMMENTED,2024-04-19 18:13:36+00:00,
+25349,mshabunin,COMMENTED,2024-04-28 10:50:37+00:00,
+25349,gursimarsingh,COMMENTED,2024-04-29 09:22:17+00:00,
+25349,mshabunin,COMMENTED,2024-05-02 10:43:22+00:00,
+25349,gursimarsingh,COMMENTED,2024-05-02 22:37:09+00:00,
+25349,gursimarsingh,COMMENTED,2024-05-02 22:37:49+00:00,
+25292,asmorkalov,COMMENTED,2024-04-16 10:08:47+00:00,
+25043,asmorkalov,COMMENTED,2024-02-19 06:43:11+00:00,
+25022,asmorkalov,COMMENTED,2024-02-14 13:03:55+00:00,
+25022,lpanaf,COMMENTED,2024-02-15 10:24:15+00:00,
+24927,asmorkalov,COMMENTED,2024-01-29 08:51:19+00:00,
+24927,vrabaud,COMMENTED,2024-01-30 13:24:32+00:00,
+24844,georgthegreat,COMMENTED,2024-01-10 15:19:28+00:00,
+24844,georgthegreat,COMMENTED,2024-01-10 15:20:21+00:00,
+24822,opencv-alalek,COMMENTED,2024-01-07 08:09:02+00:00,Thank you for the contribution!
+24822,Kumataro,COMMENTED,2024-01-08 02:55:07+00:00,
+24822,Kumataro,COMMENTED,2024-01-08 02:59:47+00:00,
+24822,Kumataro,COMMENTED,2024-01-08 03:02:29+00:00,
+24822,asmorkalov,COMMENTED,2024-01-09 06:49:54+00:00,
+24822,Kumataro,COMMENTED,2024-01-09 09:19:59+00:00,
+24822,Kumataro,COMMENTED,2024-01-09 09:51:25+00:00,
+24822,Kumataro,COMMENTED,2024-01-09 10:06:12+00:00,
+24822,Kumataro,COMMENTED,2024-01-09 10:06:43+00:00,
+24791,DariaMityagina,COMMENTED,2023-12-28 18:46:52+00:00,
+24791,dmatveev,COMMENTED,2023-12-29 15:02:11+00:00,
+24791,dmatveev,COMMENTED,2023-12-29 15:03:13+00:00,
+24791,dmatveev,COMMENTED,2023-12-29 15:04:20+00:00,
+24791,DariaMityagina,COMMENTED,2023-12-29 15:04:27+00:00,
+24691,opencv-alalek,COMMENTED,2023-12-13 14:27:21+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-13 15:21:13+00:00,
+24691,opencv-alalek,COMMENTED,2023-12-13 18:18:07+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-13 19:09:10+00:00,
+24691,dkurt,COMMENTED,2023-12-14 08:44:21+00:00,
+24691,dkurt,COMMENTED,2023-12-14 08:45:13+00:00,
+24691,dkurt,COMMENTED,2023-12-14 08:46:59+00:00,
+24691,dkurt,COMMENTED,2023-12-14 08:47:44+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-14 08:48:27+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-14 08:48:33+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-14 08:48:52+00:00,
+24691,dkurt,COMMENTED,2023-12-14 08:49:27+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-14 08:50:49+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-14 09:05:19+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-14 09:05:55+00:00,
+24691,dkurt,COMMENTED,2023-12-14 09:09:15+00:00,
+24691,fengyuentau,COMMENTED,2023-12-14 09:16:41+00:00,
+24691,dkurt,COMMENTED,2023-12-14 09:23:53+00:00,
+24691,dkurt,COMMENTED,2023-12-14 09:25:00+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-14 09:45:52+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-15 07:00:59+00:00,
+24691,fengyuentau,COMMENTED,2023-12-15 07:03:18+00:00,
+24691,dkurt,COMMENTED,2023-12-15 12:08:15+00:00,
+24691,dkurt,COMMENTED,2023-12-15 12:14:05+00:00,
+24691,dkurt,COMMENTED,2023-12-15 12:14:40+00:00,
+24691,dkurt,COMMENTED,2023-12-15 12:15:43+00:00,
+24691,asmorkalov,COMMENTED,2023-12-18 06:39:22+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-18 14:18:12+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-18 14:19:20+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-18 14:19:25+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-18 14:19:29+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-18 14:19:36+00:00,
+24691,dkurt,COMMENTED,2023-12-19 15:37:10+00:00,
+24691,dkurt,COMMENTED,2023-12-19 15:37:55+00:00,
+24691,dkurt,COMMENTED,2023-12-19 15:39:37+00:00,
+24691,dkurt,COMMENTED,2023-12-19 15:43:25+00:00,
+24691,dkurt,COMMENTED,2023-12-19 15:47:53+00:00,
+24691,opencv-alalek,COMMENTED,2023-12-19 20:10:36+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-20 04:30:09+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-21 05:37:33+00:00,
+24691,dkurt,COMMENTED,2023-12-21 14:11:14+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-22 05:31:30+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-22 05:31:39+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-22 05:31:45+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-22 05:32:06+00:00,
+24691,opencv-alalek,COMMENTED,2023-12-22 05:34:46+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-22 05:57:44+00:00,
+24691,dkurt,COMMENTED,2023-12-22 06:21:12+00:00,
+24691,dkurt,COMMENTED,2023-12-22 06:21:38+00:00,
+24691,dkurt,COMMENTED,2023-12-22 06:22:35+00:00,
+24691,dkurt,COMMENTED,2023-12-22 06:24:18+00:00,
+24691,dkurt,COMMENTED,2023-12-22 06:25:46+00:00,
+24691,dkurt,COMMENTED,2023-12-22 06:26:58+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-22 06:28:29+00:00,
+24691,dkurt,COMMENTED,2023-12-22 06:30:00+00:00,
+24691,dkurt,COMMENTED,2023-12-22 06:33:47+00:00,
+24691,opencv-alalek,COMMENTED,2023-12-22 06:54:28+00:00,
+24691,opencv-alalek,COMMENTED,2023-12-22 06:56:03+00:00,
+24691,dkurt,COMMENTED,2023-12-22 06:57:10+00:00,
+24691,Abdurrahheem,COMMENTED,2023-12-22 12:56:04+00:00,
+24564,AleksandrPanov,CHANGES_REQUESTED,2024-05-29 08:02:55+00:00,"Tested with [benchmark](https://github.com/opencv/opencv_benchmarks/tree/develop/python_benchmarks/objdetect_benchmark) `--configuration=generate_run --board_x=7 --board_y=6 --path=res_chessboard --synthetic_object=chessboard`:
+
+Before PR:
+![6x7](https://github.com/opencv/opencv/assets/22337800/d83f8ded-db27-40dd-a86c-95ec0e546323)
+
+
+After PR:
+![6x7v2](https://github.com/opencv/opencv/assets/22337800/80ee70b3-c44d-4c69-be06-37fa007adda5)
+
+There are more improvements than regressions, but additional testing needs to be done."
+24564,thewoz,COMMENTED,2024-05-29 08:28:04+00:00,
+24564,thewoz,COMMENTED,2024-05-29 08:32:14+00:00,
+24564,thewoz,COMMENTED,2024-05-29 08:32:24+00:00,
+24532,mshabunin,COMMENTED,2023-11-21 13:39:21+00:00,
+24532,mshabunin,COMMENTED,2023-11-21 13:48:01+00:00,
+24532,mshabunin,COMMENTED,2023-11-21 13:52:25+00:00,
+24532,mshabunin,COMMENTED,2023-11-21 13:59:53+00:00,
+24532,kallaballa,COMMENTED,2023-11-21 14:12:12+00:00,
+24532,kallaballa,COMMENTED,2023-11-21 14:18:24+00:00,
+24532,mshabunin,COMMENTED,2023-11-21 14:22:05+00:00,
+24532,kallaballa,COMMENTED,2023-11-21 18:36:05+00:00,
+24532,kallaballa,COMMENTED,2023-11-21 18:36:37+00:00,
+24532,kallaballa,COMMENTED,2023-11-21 18:57:40+00:00,
+24532,mshabunin,COMMENTED,2023-11-21 19:09:37+00:00,
+24532,kallaballa,COMMENTED,2023-11-22 05:31:45+00:00,
+24532,opencv-alalek,COMMENTED,2023-11-24 02:50:02+00:00,Try to implement the test first (follow TDD - test-driven development).
+24532,kallaballa,COMMENTED,2023-11-25 01:55:43+00:00,
+24444,opencv-alalek,COMMENTED,2023-10-24 12:17:05+00:00,
+24444,kallaballa,COMMENTED,2023-11-08 06:03:58+00:00,
+24444,opencv-alalek,COMMENTED,2023-11-08 18:00:22+00:00,
+24444,vpisarev,COMMENTED,2023-11-08 21:10:40+00:00,
+24444,kallaballa,COMMENTED,2023-11-10 10:57:32+00:00,
+24444,kallaballa,COMMENTED,2023-11-10 10:58:59+00:00,
+24444,kallaballa,COMMENTED,2023-11-10 11:05:25+00:00,
+24444,kallaballa,COMMENTED,2023-11-10 11:41:32+00:00,
+24444,opencv-alalek,COMMENTED,2023-11-10 14:53:27+00:00,
+24444,vpisarev,COMMENTED,2023-11-10 20:04:29+00:00,
+24444,kallaballa,COMMENTED,2023-11-11 02:06:59+00:00,
+24444,kallaballa,COMMENTED,2023-11-13 05:12:33+00:00,
+24444,opencv-alalek,COMMENTED,2023-11-21 16:02:51+00:00,
+24444,kallaballa,COMMENTED,2023-11-22 17:44:11+00:00,
+24444,kallaballa,COMMENTED,2023-11-25 03:20:45+00:00,
+24444,opencv-alalek,COMMENTED,2023-11-30 18:01:27+00:00,
+24444,kallaballa,COMMENTED,2023-12-03 08:58:44+00:00,
+24444,kallaballa,COMMENTED,2023-12-03 09:07:06+00:00,
+24444,kallaballa,COMMENTED,2023-12-03 09:45:08+00:00,
+24444,kallaballa,COMMENTED,2023-12-03 09:58:45+00:00,
+24444,opencv-alalek,COMMENTED,2023-12-14 12:35:23+00:00,
+24433,asmorkalov,COMMENTED,2023-10-25 07:03:16+00:00,
+24426,dkurt,COMMENTED,2023-10-23 13:08:12+00:00,
+24414,dkurt,COMMENTED,2023-10-17 09:40:21+00:00,
+24414,kallaballa,COMMENTED,2023-10-17 09:47:26+00:00,
+24414,dkurt,COMMENTED,2023-11-13 12:02:53+00:00,
+24414,kallaballa,COMMENTED,2023-11-13 17:19:15+00:00,
+24326,opencv-alalek,COMMENTED,2023-10-18 20:56:34+00:00,Please add tests for related use cases here: https://github.com/opencv/opencv/blob/4.x/modules/core/test/test_opencl.cpp
+24326,kallaballa,COMMENTED,2023-10-19 01:49:05+00:00,
+24326,kallaballa,COMMENTED,2023-10-19 01:49:35+00:00,
+24326,kallaballa,COMMENTED,2023-10-19 01:49:45+00:00,
+24326,kallaballa,COMMENTED,2023-10-23 19:53:36+00:00,
+24326,opencv-alalek,COMMENTED,2023-10-23 21:14:37+00:00,
+24326,kallaballa,COMMENTED,2023-11-20 17:22:45+00:00,
+24326,kallaballa,COMMENTED,2023-11-20 17:22:53+00:00,
+24326,kallaballa,COMMENTED,2023-11-20 17:23:22+00:00,
+24326,opencv-alalek,COMMENTED,2023-12-20 13:57:45+00:00,"Thank you for the update!
+
+Could you prepare test cases which cover new code paths?
+
+E.g, here: https://github.com/opencv/opencv/blob/4.x/modules/core/test/test_opencl.cpp (contains tests for `OpenCLExecutionContext`)"
+24193,mshabunin,COMMENTED,2023-08-24 17:43:18+00:00,
+24193,vrabaud,COMMENTED,2023-08-28 15:31:43+00:00,
+24193,opencv-alalek,COMMENTED,2023-08-29 12:11:09+00:00,Do we want to pull oss-fuzz testing code from their repository and define set of tests here?
+24151,opencv-alalek,COMMENTED,2023-09-16 00:33:33+00:00,"Thank you for the contribution!
+
+Changes in OpenCV public API are under discussion in OpenCV team.
+My thoughts about possible changes are below.
+
+In general, it is not a good idea (anti-pattern) to create single GOD function with many modes of interpolations, coordinates, rounding, etc.
+These modes are not going to variate in user applications. Modes are usually used with fixed values. So no need to define them as parameters. We could specify modes in function names.
+
+Moreover it is very confusing to see some mode values in documentation which should not be used at all (e.g. `WARP_INVERSE_MAP` should not be used with resize - but it is here messing documentation)
+
+So it makes sense to split resize API on several functions for single modes.
+Advantage of that we could improve these functions more easily than single GOD entry point.
+
+Also it is much easier to add a new function with new behavior instead of modification of existed one.
+
+For example, we could use bicubic interpolation coefficient (-0.5 vs -0.75) in `resizeBicubic(..., double biCubicParam)`. We don't really want to show unused options in `resizeNN(()` or vise-versa."
+24151,Ginkgo-Biloba,COMMENTED,2023-09-17 04:23:52+00:00,
+24151,Ginkgo-Biloba,COMMENTED,2023-09-17 04:23:58+00:00,
+24052,asmorkalov,CHANGES_REQUESTED,2023-08-02 07:32:57+00:00,
+24052,asmorkalov,COMMENTED,2023-08-03 13:11:10+00:00,
+24052,ivashmak,COMMENTED,2023-08-03 13:58:44+00:00,
+24052,asmorkalov,COMMENTED,2023-08-03 19:01:13+00:00,
+24052,ivashmak,COMMENTED,2023-08-07 18:47:33+00:00,
+24052,lpanaf,COMMENTED,2023-08-08 15:12:24+00:00,
+24052,lpanaf,COMMENTED,2023-08-08 16:38:52+00:00,
+24052,asmorkalov,COMMENTED,2024-02-14 10:48:36+00:00,
+24052,asmorkalov,COMMENTED,2024-02-21 11:22:22+00:00,
+23960,asmorkalov,COMMENTED,2023-07-11 07:17:02+00:00,
+23960,asmorkalov,COMMENTED,2023-08-07 15:52:11+00:00,
+23960,asmorkalov,COMMENTED,2023-09-08 11:06:23+00:00,
+23921,dkurt,COMMENTED,2023-07-04 12:46:17+00:00,
+23921,chacha21,COMMENTED,2023-07-04 12:56:54+00:00,
+23921,dkurt,COMMENTED,2023-07-04 13:31:13+00:00,
+23921,chacha21,COMMENTED,2023-07-04 16:34:58+00:00,
+23689,zihaomu,COMMENTED,2023-06-02 05:20:35+00:00,
+23689,vpisarev,COMMENTED,2023-06-02 08:13:04+00:00,
+23689,zihaomu,COMMENTED,2023-06-02 08:13:30+00:00,
+23689,zihaomu,COMMENTED,2023-08-05 01:30:25+00:00,
+23689,zihaomu,COMMENTED,2023-08-05 01:50:55+00:00,
+23525,asmorkalov,CHANGES_REQUESTED,2023-05-23 10:23:48+00:00,The PR does not demonstrate stable performance improvement.
+23334,dmatveev,COMMENTED,2023-03-14 11:59:24+00:00,
+23190,AleksandrPanov,CHANGES_REQUESTED,2023-04-19 16:07:05+00:00,"@JonasPerolini, thank you for your work!
+
+I think it's better to add a new parameter like `markersUncertaintyThreshold` to `DetectorParameters`. If the uncertainty of the marker is less than the threshold value, the marker is skipped. This solution avoids the API compatibility issue.
+
+You have done tests for false positive results, but we need the rest of the tests. We need a dataset with ""ArUco"" markers to find the optimal value of the parameter."
+23190,JonasPerolini,COMMENTED,2023-04-20 11:08:12+00:00,
+23190,JonasPerolini,COMMENTED,2023-04-20 11:11:58+00:00,
+23190,opencv-alalek,COMMENTED,2023-12-15 06:59:08+00:00,
+22997,asmorkalov,COMMENTED,2024-03-04 12:28:01+00:00,
+22997,3dfirelab,COMMENTED,2024-03-04 15:54:44+00:00,"thanks for the edits. 
+
+```
+        // now call at the start of the loop
+        // update warping matrix
+        //update_warping_matrix_ECC( map, deltaP, motionType);
+```
+
+this can be removed at the end of the loop that iteratively update map_matrix
+it is now down at the beginning.
+"
+22969,alalek,COMMENTED,2022-12-15 23:35:01+00:00,
+22884,savuor,APPROVED,2022-12-31 06:45:13+00:00,"It's fully correct, it works and it should be merged. But:
+* Why Partial solver is disabled? I've removed it until it's not in use.
+* Weights are supported by the algorithm but never actually used. I think we may extend the interface by supporting weights (maybe in next PR?). We can also extend tests by making some ground truth tests.
+* I've optimized the function `solve_weighted_umeyama` a bit: just 1 loop, almost no data copying, plain data types (can be easily vectorized in the future). It's 20% faster on my machine.
+* I've pushed my changes into your branch, please check"
+22884,asmorkalov,COMMENTED,2023-01-16 12:49:33+00:00,
+22884,tfunatomi,COMMENTED,2023-01-16 14:31:44+00:00,
+22884,asmorkalov,COMMENTED,2023-01-16 14:44:35+00:00,
+22884,tfunatomi,COMMENTED,2023-01-17 01:07:34+00:00,
+22884,savuor,COMMENTED,2023-01-18 00:58:26+00:00,
+22884,tfunatomi,COMMENTED,2023-01-18 09:38:23+00:00,
+22884,tfunatomi,COMMENTED,2024-02-18 02:22:56+00:00,
+22884,tfunatomi,COMMENTED,2024-09-12 14:59:01+00:00,
+22822,alalek,COMMENTED,2022-11-23 22:56:04+00:00,
+22780,alalek,COMMENTED,2022-11-15 04:01:31+00:00,"Thank you for the contribution!
+
+I need a more time for launching of your code with reproducer (no working configuration with VA at this moment).
+
+BTW, could you try to check your reproducer with OpenCV without PR #19755 (e.g. commit bb92eb5a9306242b777f70ea01c62ddfa3586747 )"
+22780,kallaballa,COMMENTED,2022-11-17 08:32:19+00:00,
+22780,kallaballa,COMMENTED,2022-11-17 08:32:55+00:00,
+22780,kallaballa,COMMENTED,2022-11-19 19:12:26+00:00,
+22780,kallaballa,COMMENTED,2022-11-19 19:16:54+00:00,
+22780,kallaballa,COMMENTED,2022-11-19 19:21:13+00:00,
+22780,alalek,COMMENTED,2022-11-24 11:52:01+00:00,"Thank you for the updates!
+
+Sorry for delay. I'm a busy till the end of this week."
+22780,kallaballa,COMMENTED,2022-11-25 08:56:03+00:00,
+22780,kallaballa,COMMENTED,2022-11-25 08:56:20+00:00,
+22780,kallaballa,COMMENTED,2022-11-26 21:29:36+00:00,
+22780,kallaballa,COMMENTED,2022-11-26 21:29:43+00:00,
+22780,kallaballa,COMMENTED,2022-11-26 21:32:44+00:00,
+22780,kallaballa,COMMENTED,2022-11-26 21:39:12+00:00,
+22780,kallaballa,COMMENTED,2022-11-26 22:34:26+00:00,
+22780,kallaballa,COMMENTED,2022-11-26 22:34:44+00:00,
+22780,kallaballa,COMMENTED,2022-11-26 22:35:00+00:00,
+22780,kallaballa,COMMENTED,2022-11-26 22:40:47+00:00,
+22780,kallaballa,COMMENTED,2022-11-26 22:42:25+00:00,
+22731,savuor,COMMENTED,2022-11-03 01:06:18+00:00,
+22731,savuor,CHANGES_REQUESTED,2022-11-03 02:04:10+00:00,"LGTM :+1: 
+But we need at least 1 test. I propose you to take some TSDF test as a base:
+* Render a scene, integrate it into TSDF for several frames
+* Extract verts & faces, count them, freeze these numbers in a test
+* Save to OBJ file if a `--test_debug` flag is given: `if (cvtest::debugLevel > 0)`
+
+"
+22731,savuor,COMMENTED,2022-11-03 02:08:59+00:00,
+22704,asmorkalov,COMMENTED,2022-10-27 10:43:01+00:00,
+22704,kallaballa,COMMENTED,2022-10-27 10:49:34+00:00,
+22704,dmatveev,COMMENTED,2022-12-18 22:45:42+00:00,"At a very first glance it doesn't affect any media-related parts of G-API
+
+Thanks!
+-D"
+22704,opencv-alalek,COMMENTED,2023-09-24 23:59:18+00:00,
+22704,kallaballa,COMMENTED,2023-09-25 01:07:42+00:00,
+22704,kallaballa,COMMENTED,2023-09-25 01:11:57+00:00,
+22704,kallaballa,COMMENTED,2023-09-25 01:12:23+00:00,
+22704,opencv-alalek,COMMENTED,2023-09-27 04:55:53+00:00,
+22704,kallaballa,COMMENTED,2023-09-27 06:47:21+00:00,
+22704,kallaballa,COMMENTED,2023-10-26 05:17:58+00:00,
+22671,alalek,COMMENTED,2022-10-20 17:12:08+00:00,
+22671,asenyaev,COMMENTED,2022-10-20 17:26:23+00:00,
+22671,asenyaev,COMMENTED,2022-10-20 17:28:30+00:00,
+22671,alalek,COMMENTED,2022-10-20 18:33:29+00:00,
+22671,asenyaev,COMMENTED,2022-10-21 08:39:25+00:00,
+22671,asenyaev,COMMENTED,2022-10-21 08:44:00+00:00,
+22431,alalek,COMMENTED,2022-09-02 09:28:31+00:00,
+22431,ocpalo,COMMENTED,2022-09-02 19:41:27+00:00,
+22431,ocpalo,COMMENTED,2022-09-03 09:31:19+00:00,
+22431,sturkmen72,COMMENTED,2022-09-03 09:59:11+00:00,
+22431,asmorkalov,COMMENTED,2022-10-04 14:41:04+00:00,
+22431,ocpalo,COMMENTED,2022-10-05 19:27:20+00:00,
+22431,ocpalo,COMMENTED,2022-10-05 19:27:21+00:00,
+22431,ocpalo,COMMENTED,2022-10-05 19:27:24+00:00,
+22431,ocpalo,COMMENTED,2022-10-05 19:32:02+00:00,
+22207,vpisarev,COMMENTED,2022-07-12 20:16:16+00:00,
+22207,savuor,COMMENTED,2024-08-04 20:29:47+00:00,
+22181,l-bat,COMMENTED,2022-08-23 14:12:08+00:00,
+22181,l-bat,COMMENTED,2022-09-05 09:17:06+00:00,
+22181,spazewalker,COMMENTED,2022-09-08 20:28:03+00:00,
+22181,l-bat,COMMENTED,2022-09-09 08:24:06+00:00,
+22181,l-bat,COMMENTED,2022-09-09 09:26:58+00:00,
+22181,l-bat,COMMENTED,2022-09-13 12:34:18+00:00,
+22181,l-bat,COMMENTED,2022-09-13 12:38:05+00:00,
+22181,l-bat,COMMENTED,2022-09-13 12:58:43+00:00,
+22181,l-bat,COMMENTED,2022-09-13 13:00:24+00:00,
+22181,l-bat,COMMENTED,2022-09-13 13:01:12+00:00,
+22181,l-bat,COMMENTED,2022-09-13 13:02:06+00:00,
+22181,l-bat,COMMENTED,2022-09-13 13:04:10+00:00,
+22181,l-bat,COMMENTED,2022-09-13 13:05:34+00:00,
+22181,l-bat,COMMENTED,2022-09-13 13:07:36+00:00,
+22181,spazewalker,COMMENTED,2022-09-13 13:09:19+00:00,
+22181,l-bat,COMMENTED,2022-09-13 13:09:21+00:00,
+22181,l-bat,COMMENTED,2022-09-13 13:10:13+00:00,
+22181,l-bat,COMMENTED,2022-09-13 13:11:18+00:00,
+22181,l-bat,COMMENTED,2022-09-13 13:11:52+00:00,
+22181,l-bat,COMMENTED,2022-09-13 13:14:22+00:00,
+22181,spazewalker,COMMENTED,2022-09-13 22:22:00+00:00,
+22181,l-bat,COMMENTED,2022-09-14 08:39:23+00:00,
+22181,l-bat,COMMENTED,2022-09-14 09:17:02+00:00,
+22181,spazewalker,COMMENTED,2022-09-14 09:29:55+00:00,
+22181,l-bat,COMMENTED,2022-09-14 10:02:15+00:00,
+22181,l-bat,COMMENTED,2022-09-15 09:11:07+00:00,
+22181,l-bat,COMMENTED,2022-09-15 09:12:42+00:00,
+22181,spazewalker,COMMENTED,2022-09-15 15:01:23+00:00,
+22181,l-bat,COMMENTED,2022-09-15 15:04:50+00:00,
+22181,spazewalker,COMMENTED,2022-09-15 15:11:27+00:00,
+22181,l-bat,COMMENTED,2022-09-16 06:55:11+00:00,
+22181,spazewalker,COMMENTED,2022-09-16 20:21:31+00:00,
+22181,l-bat,COMMENTED,2022-09-19 08:09:17+00:00,
+22181,spazewalker,COMMENTED,2022-09-19 15:24:59+00:00,
+21961,VadimLevin,COMMENTED,2022-05-12 07:41:45+00:00,Thank you for PR. Can you verify if this solution works if MBCS is not enabled (Based on [this comment](https://github.com/opencv/opencv/issues/18305#issuecomment-690693604) the issue is not always reproducible)?
+21961,liuxingbaoyu,COMMENTED,2022-05-12 18:03:12+00:00,
+21951,VadimLevin,COMMENTED,2022-06-20 12:43:16+00:00,
+21951,vpisarev,COMMENTED,2022-06-21 22:24:51+00:00,
+21951,victor1234,COMMENTED,2022-06-22 07:23:07+00:00,
+21611,alalek,COMMENTED,2022-02-16 13:24:51+00:00,
+21611,traversaro,COMMENTED,2022-02-16 13:51:18+00:00,
+21611,alalek,COMMENTED,2022-02-16 18:33:57+00:00,
+21611,RuRo,COMMENTED,2022-06-29 19:56:22+00:00,
+21611,traversaro,COMMENTED,2022-06-29 20:32:27+00:00,
+21611,RuRo,COMMENTED,2022-06-29 21:24:36+00:00,
+21450,alalek,COMMENTED,2022-01-27 10:22:00+00:00,
+21450,HattrickGenerator,COMMENTED,2022-01-28 08:55:12+00:00,
+21407,alalek,COMMENTED,2022-01-10 07:39:40+00:00,
+21407,MasahiroOgawa,COMMENTED,2022-01-11 11:45:21+00:00,
+21407,MasahiroOgawa,COMMENTED,2022-01-11 11:45:43+00:00,
+21407,asmorkalov,COMMENTED,2022-12-20 10:31:43+00:00,
+21407,MasahiroOgawa,COMMENTED,2022-12-20 22:14:12+00:00,
+21407,MasahiroOgawa,COMMENTED,2022-12-20 23:29:56+00:00,
+21407,MasahiroOgawa,COMMENTED,2022-12-20 23:30:27+00:00,
+21407,opencv-alalek,COMMENTED,2023-12-25 19:32:31+00:00,
+21407,opencv-alalek,COMMENTED,2023-12-25 19:40:41+00:00,
+21407,MasahiroOgawa,COMMENTED,2024-09-02 06:32:58+00:00,
+21386,asmorkalov,APPROVED,2022-01-10 05:52:10+00:00,
+20770,alalek,COMMENTED,2021-10-03 16:26:33+00:00,
+20770,vpisarev,COMMENTED,2021-10-07 08:59:03+00:00,
+20569,VadimLevin,COMMENTED,2021-08-18 19:26:57+00:00,
+20569,CSBVision,COMMENTED,2021-08-19 06:00:48+00:00,
+20569,CSBVision,COMMENTED,2021-08-19 06:00:53+00:00,
+20569,CSBVision,COMMENTED,2021-08-19 06:07:55+00:00,
+20569,asmorkalov,APPROVED,2021-10-05 05:20:43+00:00,:+1: 
+20456,alalek,COMMENTED,2021-08-13 12:59:24+00:00,
+20456,komakai,COMMENTED,2021-08-14 11:13:14+00:00,
+20389,asmorkalov,COMMENTED,2021-07-19 09:27:31+00:00,"It looks like it's rather simpler to use templates and package like [jinja](https://jinja.palletsprojects.com/en/3.0.x/), but not generate files with fixed structure and values line by line. It's more readable and it's easier for maintenance. You do not need to construct XML in head to understand what is changed in PR."
+20389,asmorkalov,COMMENTED,2021-07-20 07:58:09+00:00,
+20389,asmorkalov,COMMENTED,2021-08-05 12:53:59+00:00,
+20389,mlourencoeb,COMMENTED,2021-08-10 18:26:21+00:00,Looking good overall!
+20389,AdityaMulgundkar,COMMENTED,2021-08-14 07:28:00+00:00,
+20389,AdityaMulgundkar,COMMENTED,2021-08-14 07:28:20+00:00,
+20389,AdityaMulgundkar,COMMENTED,2021-08-14 08:26:36+00:00,
+20389,AdityaMulgundkar,COMMENTED,2021-08-18 06:40:44+00:00,
+20389,mlourencoeb,COMMENTED,2021-08-20 08:20:43+00:00,
+20389,mlourencoeb,COMMENTED,2021-08-20 08:36:58+00:00,
+20389,AdityaMulgundkar,COMMENTED,2021-08-21 03:57:40+00:00,
+20389,AdityaMulgundkar,COMMENTED,2021-08-21 03:58:01+00:00,
+20389,AdityaMulgundkar,COMMENTED,2021-08-21 03:58:10+00:00,
+20389,AdityaMulgundkar,COMMENTED,2021-08-21 03:58:54+00:00,
+20389,AdityaMulgundkar,COMMENTED,2021-08-21 03:58:59+00:00,
+20389,AdityaMulgundkar,COMMENTED,2021-08-21 03:59:13+00:00,
+20389,AdityaMulgundkar,COMMENTED,2021-08-21 03:59:20+00:00,
+20389,AdityaMulgundkar,COMMENTED,2021-08-21 03:59:25+00:00,
+20389,AdityaMulgundkar,COMMENTED,2021-08-21 04:06:14+00:00,
+20389,AdityaMulgundkar,COMMENTED,2021-08-21 15:19:51+00:00,
+20389,AdityaMulgundkar,COMMENTED,2021-08-21 15:20:08+00:00,
+20389,AdityaMulgundkar,COMMENTED,2021-08-21 15:20:44+00:00,
+20389,AdityaMulgundkar,COMMENTED,2021-08-21 15:21:22+00:00,
+20389,alalek,COMMENTED,2021-10-20 18:42:08+00:00,
+20371,JulieBar,CHANGES_REQUESTED,2021-10-07 21:32:33+00:00,File anthidium-forcipatum is too big for samples
+20371,RiscadoA,COMMENTED,2021-10-15 09:12:14+00:00,
+20371,RiscadoA,COMMENTED,2021-11-20 10:19:29+00:00,
+20371,RiscadoA,COMMENTED,2021-11-20 10:58:32+00:00,
+20371,RiscadoA,COMMENTED,2021-11-20 15:54:13+00:00,
+20219,alalek,COMMENTED,2021-06-15 07:57:21+00:00,Thank you for the contribution!
+20219,thezane,COMMENTED,2021-06-15 10:02:09+00:00,
+20219,thezane,COMMENTED,2022-08-29 07:51:46+00:00,
+20105,mshabunin,COMMENTED,2021-05-17 14:58:05+00:00,
+20105,WeiChungChang,COMMENTED,2021-05-18 00:33:19+00:00,
+20105,vpisarev,COMMENTED,2021-10-08 09:33:36+00:00,
+20105,JoeHowse,COMMENTED,2022-01-23 23:01:13+00:00,
+19305,alalek,COMMENTED,2021-01-11 18:25:01+00:00,"What is wrong with existed Wiki pages?
+- https://github.com/opencv/opencv/wiki/QA_in_OpenCV
+- https://github.com/opencv/opencv/wiki/HowToUsePerfTests
+- https://github.com/opencv/opencv/wiki/HowToWritePerfTests
+
+We definitely MUST NOT duplicate information in a multiple places.
+Any information becomes obsolete, so it is better to update that in a single place."
+19305,mshabunin,COMMENTED,2021-01-12 10:23:18+00:00,
+19305,DumDereDum,COMMENTED,2021-01-12 11:47:35+00:00,
+19305,DumDereDum,COMMENTED,2021-01-12 12:52:24+00:00,
+19305,DumDereDum,COMMENTED,2021-01-15 15:42:07+00:00,
+19305,DumDereDum,COMMENTED,2021-01-15 15:42:13+00:00,
+19305,alalek,COMMENTED,2021-01-21 23:56:46+00:00,"We must assume some baseline knowledge of the readers.
+We should write documentation about OpenCV specific and BKMs instead of trying to cover general programming topics. How to pass command-line parameter or specify environment variable is out of scope.
+Provide links on external documentation/resources instead of copying of such information.
+
+---
+
+Final review and approval will be done by @mshabunin"
+19305,DumDereDum,COMMENTED,2021-01-29 12:48:58+00:00,
+19305,DumDereDum,COMMENTED,2021-01-29 12:49:02+00:00,
+19305,DumDereDum,COMMENTED,2021-01-29 12:49:08+00:00,
+19305,DumDereDum,COMMENTED,2021-01-29 12:49:13+00:00,
+19305,DumDereDum,COMMENTED,2021-01-29 12:49:17+00:00,
+19305,DumDereDum,COMMENTED,2021-01-29 12:49:24+00:00,
+19305,DumDereDum,COMMENTED,2021-01-29 12:49:29+00:00,
+19305,DumDereDum,COMMENTED,2021-02-04 08:09:46+00:00,
+19305,DumDereDum,COMMENTED,2021-02-04 08:14:40+00:00,
+19305,DumDereDum,COMMENTED,2021-02-04 08:14:46+00:00,
+19305,DumDereDum,COMMENTED,2021-02-04 08:14:49+00:00,
+19305,DumDereDum,COMMENTED,2021-02-04 08:15:04+00:00,
+19305,DumDereDum,COMMENTED,2021-02-04 08:15:08+00:00,
+19305,DumDereDum,COMMENTED,2021-02-04 08:15:11+00:00,
+19305,DumDereDum,COMMENTED,2021-02-04 08:15:15+00:00,
+19305,DumDereDum,COMMENTED,2021-02-04 08:15:18+00:00,
+19305,DumDereDum,COMMENTED,2021-02-04 08:15:22+00:00,
+19305,DumDereDum,COMMENTED,2021-02-04 08:15:25+00:00,
+19305,DumDereDum,COMMENTED,2021-02-04 08:15:29+00:00,
+19305,DumDereDum,COMMENTED,2021-02-04 08:15:32+00:00,
+19305,DumDereDum,COMMENTED,2021-02-12 10:30:05+00:00,
+19305,DumDereDum,COMMENTED,2021-02-12 10:31:59+00:00,
+19305,mshabunin,COMMENTED,2021-02-16 11:52:57+00:00,"Apparently there is not much info about actual test writing left in the tutorial 😃 
+I think the following themes should be covered to make it useful:
+* Short reminder: How to build and run the tests (BUILD_TESTS option enabled by default, build _all_ or _opencv_test_xxx_ target (❓ is there _opencv_tests_ target?), set testdata location in the environment, run the test, filter test cases)
+* File structure (mostly covered)
+* Several words about _ts_ module (internal, static, includes gtest, requires core, imgproc, imgcodecs, videoio, highgui)
+* General guidelines: kinds of tests, synthetic data as input, *gold* output, array comparison, numerical instability, image licensing (❓ too general themes? out of scope? separate article?)
+* Namespaces (_cvtest_, anonymous) and common _include_-files
+* Test body: simple tests, fixture tests, parametrized tests (code snippets, some information would intersect with gtest docs, but it's ok, link to gtest for more details)
+* Assert and Expect macros (only most common, would intersect with gtest docs, link for more details)
+* OpenCV-specific things: utility headers ([ts.hpp](https://github.com/opencv/opencv/blob/master/modules/ts/include/opencv2/ts.hpp), [ts_ext.hpp](https://github.com/opencv/opencv/blob/master/modules/ts/include/opencv2/ts/ts_ext.hpp), [ocl_test.hpp](https://github.com/opencv/opencv/blob/master/modules/ts/include/opencv2/ts/ocl_test.hpp), [cuda_test.hpp](https://github.com/opencv/opencv/blob/master/modules/ts/include/opencv2/ts/cuda_test.hpp)), functions from _cvtest_ namespace should be used for verification; random input generation; array comparison with `cvtest::norm`, `cvtest::cmpEps*`; additional macros from ocl_test.hpp and cuda_test.hpp; how and when to print to stdout; existing fixtures ArrayTest, BadArgTest; using testdata with `findDataFile`; runtime test skipping; test tagging (❓ too advanced? separate section?),
+* OpenCL test specifics(❓)
+* Testdata generation (❓ too advanced?)
+
+*Note:* maybe some things (e.g. in _cvtest_ namespace) can be documented in respective headers and enabled in the documentation. After that they can be referred from the tutorial. However this can require a separate activity..."
+19305,Qannaf,APPROVED,2022-01-24 20:26:40+00:00,
+19126,asmorkalov,CHANGES_REQUESTED,2020-12-15 14:26:32+00:00,
+19126,amirtu,COMMENTED,2020-12-21 21:32:34+00:00,
+19126,amirtu,COMMENTED,2020-12-21 21:33:47+00:00,
+19126,asmorkalov,CHANGES_REQUESTED,2020-12-22 07:07:24+00:00,
+19126,vpisarev,COMMENTED,2020-12-23 05:31:13+00:00,
+19126,vpisarev,COMMENTED,2020-12-23 05:32:40+00:00,
+19126,vpisarev,COMMENTED,2020-12-23 05:33:59+00:00,
+19126,vpisarev,COMMENTED,2020-12-23 05:35:48+00:00,
+19126,vpisarev,COMMENTED,2020-12-23 05:57:17+00:00,
+19126,amirtu,COMMENTED,2020-12-28 13:02:01+00:00,
+19126,amirtu,COMMENTED,2020-12-28 13:02:28+00:00,
+19126,amirtu,COMMENTED,2020-12-28 13:17:39+00:00,
+19126,amirtu,COMMENTED,2020-12-28 15:40:47+00:00,
+19126,amirtu,COMMENTED,2020-12-28 15:52:05+00:00,
+19126,amirtu,COMMENTED,2020-12-29 16:33:15+00:00,
+19126,amirtu,COMMENTED,2020-12-29 17:04:44+00:00,
+19126,amirtu,COMMENTED,2021-01-21 12:49:37+00:00,
+18976,alalek,COMMENTED,2020-12-23 15:29:52+00:00,"Looks good to me.
+
+Please take a look on the comment about `--out` option above."
+18925,alalek,COMMENTED,2020-11-26 21:46:24+00:00,
+18925,chrisballinger,COMMENTED,2020-11-30 18:07:57+00:00,
+18925,alalek,COMMENTED,2020-11-30 18:44:28+00:00,
+18925,alalek,COMMENTED,2020-11-30 19:03:32+00:00,
+18925,alalek,COMMENTED,2020-11-30 19:14:22+00:00,
+18925,chrisballinger,COMMENTED,2020-11-30 20:41:17+00:00,
+18925,chrisballinger,COMMENTED,2020-11-30 20:50:16+00:00,
+18377,alalek,COMMENTED,2021-01-15 17:44:57+00:00,
+18377,asmorkalov,COMMENTED,2021-01-20 09:24:02+00:00,
+18377,michaelgruner,COMMENTED,2021-02-10 16:28:30+00:00,
+18377,asmorkalov,COMMENTED,2021-02-16 08:24:17+00:00,
+18066,huningxin,COMMENTED,2020-08-20 09:37:57+00:00,
+18066,huningxin,COMMENTED,2020-09-01 02:37:00+00:00,"Thanks @NALLEIN , please share the test results for
+1. native with WebGPU
+2. native without WebGPU
+3. web with WebGPU
+4. web without WebGPU"
+18066,alalek,COMMENTED,2020-09-01 12:12:22+00:00,
+18066,NALLEIN,COMMENTED,2020-09-01 12:23:18+00:00,
+18066,NALLEIN,COMMENTED,2020-09-01 12:24:25+00:00,
+18066,NALLEIN,COMMENTED,2020-09-01 12:29:04+00:00,
+18066,huningxin,COMMENTED,2020-09-02 01:22:18+00:00,
+18066,huningxin,COMMENTED,2020-09-02 01:23:19+00:00,
+18066,wzw-intel,COMMENTED,2020-09-07 02:43:20+00:00,
+18066,huningxin,COMMENTED,2020-09-08 02:32:44+00:00,
+18066,NALLEIN,COMMENTED,2020-09-09 12:14:09+00:00,
+18066,huningxin,COMMENTED,2020-09-15 01:23:59+00:00,
+18066,alalek,COMMENTED,2020-11-06 08:31:27+00:00,"> --build_webgpu
+
+This doesn't look to work properly.
+
+CMake emits warning:
+
+```
+CMake Warning at cmake/OpenCVDetectWebGPU.cmake:19 (message):
+  Can't use WebGPU-Dawn
+```
+
+Binary files are empty:
+
+```
+$ ll modules/dnn/CMakeFiles/opencv_dnn.dir/src/webgpu/src
+total 60
+drwxr-xr-x 2 build build 4096 Nov  5 21:02 ./
+drwxr-xr-x 5 build build 4096 Nov  5 21:00 ../
+-rw-r--r-- 1 build build  260 Nov  5 21:02 webgpu_buffer.cpp.o
+-rw-r--r-- 1 build build  260 Nov  5 21:02 webgpu_concat.cpp.o
+-rw-r--r-- 1 build build  260 Nov  5 21:02 webgpu_context.cpp.o
+-rw-r--r-- 1 build build  260 Nov  5 21:02 webgpu_conv.cpp.o
+-rw-r--r-- 1 build build  260 Nov  5 21:02 webgpu_internal.cpp.o
+-rw-r--r-- 1 build build  260 Nov  5 21:02 webgpu_lrn.cpp.o
+-rw-r--r-- 1 build build  260 Nov  5 21:02 webgpu_op_base.cpp.o
+-rw-r--r-- 1 build build  260 Nov  5 21:02 webgpu_permute.cpp.o
+-rw-r--r-- 1 build build  260 Nov  5 21:02 webgpu_pool.cpp.o
+-rw-r--r-- 1 build build  260 Nov  5 21:02 webgpu_prior_box.cpp.o
+-rw-r--r-- 1 build build  260 Nov  5 21:02 webgpu_relu.cpp.o
+-rw-r--r-- 1 build build  260 Nov  5 21:02 webgpu_softmax.cpp.o
+-rw-r--r-- 1 build build  260 Nov  5 21:02 webgpu_tensor.cpp.o
+```
+
+"
+18066,NALLEIN,COMMENTED,2020-11-06 08:56:22+00:00,
+18066,alalek,COMMENTED,2020-11-06 09:53:30+00:00,
+18066,alalek,COMMENTED,2020-11-10 00:17:08+00:00,
+18066,NALLEIN,COMMENTED,2020-11-15 05:17:36+00:00,
+18066,alalek,COMMENTED,2020-11-15 05:31:26+00:00,
+18066,NALLEIN,COMMENTED,2020-11-15 05:58:42+00:00,
+18066,stereomatchingkiss,COMMENTED,2021-02-24 10:59:48+00:00,
+17753,vpisarev,COMMENTED,2021-06-01 06:31:27+00:00,
+17753,vpisarev,CHANGES_REQUESTED,2021-06-01 07:17:25+00:00,
+17753,sturkmen72,COMMENTED,2021-06-01 14:05:09+00:00,
+17753,sturkmen72,COMMENTED,2021-06-01 14:06:26+00:00,
+17753,sturkmen72,COMMENTED,2021-06-02 20:05:34+00:00,
+17068,mshabunin,COMMENTED,2020-04-15 09:24:54+00:00,
+17068,mshabunin,COMMENTED,2020-04-15 09:28:59+00:00,
+17068,mshabunin,COMMENTED,2020-04-15 09:33:41+00:00,
+17068,mshabunin,COMMENTED,2020-04-15 09:34:19+00:00,
+17068,mshabunin,COMMENTED,2020-04-15 09:35:24+00:00,
+17068,mshabunin,COMMENTED,2020-04-15 09:42:20+00:00,
+17068,dkurt,COMMENTED,2020-04-15 10:03:09+00:00,
+17068,AlexanderShashkin,COMMENTED,2020-04-18 15:50:49+00:00,
+17068,AlexanderShashkin,COMMENTED,2020-04-18 15:53:15+00:00,
+17068,AlexanderShashkin,COMMENTED,2020-04-18 15:53:21+00:00,
+17068,AlexanderShashkin,COMMENTED,2020-04-18 16:02:22+00:00,
+17068,AlexanderShashkin,COMMENTED,2020-04-19 09:01:12+00:00,
+17068,mshabunin,COMMENTED,2020-04-23 14:34:00+00:00,
+17068,AlexanderShashkin,COMMENTED,2020-04-25 10:12:12+00:00,
+17068,mshabunin,COMMENTED,2020-04-27 07:14:33+00:00,
+17068,dkurt,COMMENTED,2020-04-27 07:28:08+00:00,
+17068,dkurt,COMMENTED,2020-04-27 07:29:17+00:00,
+17068,dkurt,COMMENTED,2020-04-27 07:29:30+00:00,
+17068,AlexanderShashkin,COMMENTED,2020-04-27 14:35:48+00:00,
+17068,AlexanderShashkin,COMMENTED,2020-04-27 14:37:59+00:00,
+17068,AlexanderShashkin,COMMENTED,2020-04-27 14:39:45+00:00,
+17068,AlexanderShashkin,COMMENTED,2020-04-27 15:14:41+00:00,
+17068,dkurt,COMMENTED,2020-04-29 18:50:30+00:00,
+17068,dkurt,COMMENTED,2020-04-29 18:51:59+00:00,
+17068,AlexanderShashkin,COMMENTED,2020-04-30 07:25:46+00:00,
+17068,AlexanderShashkin,COMMENTED,2020-04-30 07:29:49+00:00,
+17068,AlexanderShashkin,COMMENTED,2020-05-12 17:54:53+00:00,
+17068,vpisarev,COMMENTED,2020-06-22 09:48:55+00:00,
+16597,alalek,COMMENTED,2020-02-25 19:28:59+00:00,
+16597,saskatchewancatch,COMMENTED,2020-02-27 03:45:36+00:00,
+16597,alalek,COMMENTED,2020-02-27 19:25:26+00:00,
+15683,alalek,COMMENTED,2019-10-10 16:24:12+00:00,
+15683,mshabunin,COMMENTED,2023-11-21 20:36:51+00:00,
+15683,chacha21,COMMENTED,2023-11-22 09:36:34+00:00,
+15683,mshabunin,COMMENTED,2023-11-22 16:26:24+00:00,"I tried to compare performance of the new function `magnitudeSqr` and `magnitude+multiply/sqr` and it seems that fused operation is faster (x86_64).
+```
+// magnitude(x, y, dst); multiply(dst, dst, dst);
+MagnitudeAndSqr::OCL_MagnitudeSqrFixture::(640x480, 32FC1)   0.132 
+MagnitudeAndSqr::OCL_MagnitudeSqrFixture::(640x480, 32FC4)   0.642 
+MagnitudeAndSqr::OCL_MagnitudeSqrFixture::(1280x720, 32FC1)  0.436 
+MagnitudeAndSqr::OCL_MagnitudeSqrFixture::(1280x720, 32FC4)  2.459 
+MagnitudeAndSqr::OCL_MagnitudeSqrFixture::(1920x1080, 32FC1) 1.236 
+MagnitudeAndSqr::OCL_MagnitudeSqrFixture::(1920x1080, 32FC4) 5.845 
+MagnitudeAndSqr::OCL_MagnitudeSqrFixture::(3840x2160, 32FC1) 5.861 
+MagnitudeAndSqr::OCL_MagnitudeSqrFixture::(3840x2160, 32FC4) 24.528
+
+// magnitudeSqr(x, y, dst);
+MagnitudeSqr::OCL_MagnitudeSqrFixture::(640x480, 32FC1)      0.076 
+MagnitudeSqr::OCL_MagnitudeSqrFixture::(640x480, 32FC4)      0.417 
+MagnitudeSqr::OCL_MagnitudeSqrFixture::(1280x720, 32FC1)     0.263 
+MagnitudeSqr::OCL_MagnitudeSqrFixture::(1280x720, 32FC4)     1.673 
+MagnitudeSqr::OCL_MagnitudeSqrFixture::(1920x1080, 32FC1)    0.858 
+MagnitudeSqr::OCL_MagnitudeSqrFixture::(1920x1080, 32FC4)    3.995 
+MagnitudeSqr::OCL_MagnitudeSqrFixture::(3840x2160, 32FC1)    3.995 
+MagnitudeSqr::OCL_MagnitudeSqrFixture::(3840x2160, 32FC4)    16.533
+```
+
+I've updated intrinsics to the modern scalable format and enabled these blocks in scalable mode.
+
+Overall PR looks good to me."
+15682,alalek,COMMENTED,2019-10-11 13:28:15+00:00,
+15682,chacha21,COMMENTED,2019-10-11 13:48:55+00:00,
+15682,chacha21,COMMENTED,2019-10-11 13:49:22+00:00,
+15682,alalek,COMMENTED,2019-10-29 15:51:20+00:00,
+15682,chacha21,COMMENTED,2019-11-06 13:44:12+00:00,
+15682,alalek,COMMENTED,2019-11-06 13:59:30+00:00,
+15650,paroj,COMMENTED,2019-10-06 14:18:07+00:00,
+15650,paroj,COMMENTED,2019-10-06 14:22:46+00:00,
+15650,paroj,COMMENTED,2019-10-06 14:27:48+00:00,
+15650,alalek,COMMENTED,2019-10-12 02:52:30+00:00,"Thank you for working on this improvement!
+
+At first we need to keep library changes compatible. We should not break existing User applications. Or existing tests.
+Try unchanged tests (reverted code changes) and run them - there are several failed tests:
+
+```
+[  FAILED  ] 5 tests, listed below:
+[  FAILED  ] Calib3d_SolveP3P.accuracy
+[  FAILED  ] Calib3d_SolvePnPRansac.double_support
+[  FAILED  ] Calib3d_SolvePnP.generic
+[  FAILED  ] Calib3d_SolvePnP.refine3pts
+[  FAILED  ] Calib3d_SolvePnP.refine
+```
+
+In general, tests should be added only - not changed.
+
+---
+
+Suggestion from @paroj with flags for geometric restrictions sounds good.
+Checks are applied for ""object points"" only. Sometimes it make sense to handle them once (move to ctor/create to pass them once?).
+For example, factory with ""object points"" can analyze them and selects proper solver (additional to algorithm-specific factories)."
+14296,alalek,COMMENTED,2019-04-15 11:36:49+00:00,Tests are required for new functionality.
+14296,kuruk-mm,COMMENTED,2020-03-23 22:59:12+00:00,
+14296,alalek,COMMENTED,2020-10-14 22:33:23+00:00,
+14296,kuruk-mm,COMMENTED,2020-10-14 23:35:22+00:00,
+14296,alalek,COMMENTED,2021-10-26 15:27:43+00:00,
+14296,JulieBar,COMMENTED,2021-10-28 16:16:49+00:00,
+14296,JulieBar,COMMENTED,2021-10-28 16:17:35+00:00,
+14296,asmorkalov,COMMENTED,2022-10-03 14:24:19+00:00,

@@ -1,0 +1,128 @@
+PR Number,Title,Author,Created At,State
+26153,sample: tracker parameters updated,onurcankaraman,2024-09-14 20:38:44+00:00,open
+26152,imagecodecs minor improvements,sturkmen72,2024-09-14 18:53:36+00:00,open
+26150,Fix einsum for new engine,Abdurrahheem,2024-09-13 16:22:44+00:00,open
+26147,Fix some js generation issues.,vrabaud,2024-09-13 09:53:32+00:00,open
+26143,Added HAL interface for Lukas-Kanade optical flow,asmorkalov,2024-09-11 09:13:10+00:00,open
+26127,Faster implementation of blobFromImages for cpu nchw output,alexlyulkov,2024-09-06 15:26:04+00:00,open
+26090,[OpenGL] Add OpenGL Program helper classes and functions for OpenGL >= 3.2,mqcmd196,2024-08-30 05:56:05+00:00,open
+26082,imgproc: restore multiplanar conversion functions in cv::hal namespace,mshabunin,2024-08-28 13:49:19+00:00,open
+26065,Added alpha blending support to cv::line and drawing.cpp internal lin…,andreyd05,2024-08-24 21:28:09+00:00,open
+26057,Android builds update,asmorkalov,2024-08-22 10:04:18+00:00,open
+26056,[WIP] New dnn engine,vpisarev,2024-08-21 22:17:33+00:00,open
+26012,Add simd256 intrinsics to demosaicing,Octopus136,2024-08-08 09:56:00+00:00,open
+25984,imgproc: add optimized warpAffine kernels for 8U/16U/32F + C1/C3/C4 inputs,fengyuentau,2024-08-02 10:19:22+00:00,open
+25973,add test for conv2d with padding,Abdurrahheem,2024-07-31 08:14:01+00:00,open
+25966,WIP: Fix circle grid,AleksandrPanov,2024-07-29 13:28:35+00:00,open
+25964,"Add alignment checks to Mat, silence cast alignment warnings",TomaszTB,2024-07-29 00:27:49+00:00,open
+25958,Supporting GTK4 highgui,mqcmd196,2024-07-26 09:41:12+00:00,open
+25951,Mask support with CV_Bool in remaining modules,asmorkalov,2024-07-25 13:21:48+00:00,open
+25949,Added extra cvtColor version for two planes output as NV12/NV21 and related color conversion codes,asmorkalov,2024-07-25 09:15:38+00:00,open
+25923,DNN: add tensorrt backend,zihaomu,2024-07-17 08:52:30+00:00,open
+25909,Update intrin_wasm.hpp,gblikas,2024-07-14 23:04:08+00:00,open
+25892,Add support for v_sin and v_cos (Sine and Cosine),WanliZhong,2024-07-09 18:23:59+00:00,open
+25891,WIP: Resolve Compilation Error for v_func Function in SIMD Emulator,WanliZhong,2024-07-09 16:47:01+00:00,open
+25869,[RFC] Add some support for cv::Mat_<const _Tp>,vrabaud,2024-07-04 13:02:11+00:00,open
+25835,fix osx framework structure,klatism,2024-06-29 13:39:36+00:00,open
+25819, HAL for setTo() added,savuor,2024-06-27 05:21:28+00:00,open
+25715,Animated PNG Support,sturkmen72,2024-06-05 16:24:07+00:00,open
+25710,Merged yolo_detector and object detection sample,gursimarsingh,2024-06-05 12:27:37+00:00,open
+25708,Add interface to Annoy which will replace the FLANN,kaingwade,2024-06-05 04:22:28+00:00,open
+25691,[GSoC] Add GIF decode and encode for imgcodecs,redhecker,2024-06-02 13:41:29+00:00,open
+25667,Improved person reid cpp and python sample,gursimarsingh,2024-05-29 12:04:47+00:00,open
+25656,"added ximgproc edgedrawing to opencvjs, ",geroldmeisinger,2024-05-27 21:39:11+00:00,open
+25624,"HAL added for add(array, scalar)",savuor,2024-05-23 01:52:33+00:00,open
+25608,Animated WebP Support,sturkmen72,2024-05-19 19:20:24+00:00,open
+25597,Mesh Clustering for 3D Module,starga2er777,2024-05-16 12:54:42+00:00,open
+25584,Open VideoCapture from memory buffer,dkurt,2024-05-14 12:26:25+00:00,open
+25581,Convert single layer caffe tests to onnx format,WanliZhong,2024-05-14 08:29:35+00:00,open
+25569,Use zlib target instead of ZLIB_INCLUDE_DIRS and ZLIB_LIBRARIES,FantasqueX,2024-05-10 17:08:50+00:00,open
+25548,Change classic caffe models related tests and samples to onnx format,WanliZhong,2024-05-06 14:53:08+00:00,open
+25508,G-API OV backend requires partial shape support,DariaMityagina,2024-04-29 11:57:49+00:00,open
+25507,Fix CharuCo slowdown,jan-jachnik-oxa,2024-04-29 07:08:16+00:00,open
+25500,V4l default image size,alex-urm,2024-04-27 16:24:32+00:00,open
+25494,G-API: Extend ITT traces coverage,TolyaTalamanov,2024-04-26 16:51:20+00:00,open
+25394,in place convertTo,Gao-HaoYuan,2024-04-11 09:31:14+00:00,open
+25349,Videocapture samples cleanup cpp,gursimarsingh,2024-04-05 14:25:56+00:00,open
+25292,features2d cleanup: Move several feature detectors and descriptors to opencv_contrib,kaingwade,2024-03-29 07:37:28+00:00,open
+25043,Fix bias in HoughLines with even number of rho discretization steps #25038,Adi-gitX,2024-02-16 22:16:02+00:00,open
+25027,video(test): filter very long debug tests,opencv-alalek,2024-02-15 07:25:22+00:00,open
+25022,WIP: Add Charuco board support to multiview calibration sample (C++),asmorkalov,2024-02-14 12:33:56+00:00,open
+25005,Modernize CMake to CMake3,Ryanf55,2024-02-12 14:35:45+00:00,open
+24927,Fix rectangle rounding in cvGetOptimalNewCameraMatrix.,vrabaud,2024-01-26 12:54:14+00:00,open
+24844,Make use of C++11 std::aligned_alloc where available,georgthegreat,2024-01-10 15:18:39+00:00,open
+24822,imgcodecs: Support Quite OK Image Format,Kumataro,2024-01-07 07:15:50+00:00,open
+24791,Add cv::resize to copyFromOV to fix gaze_estimation_demo with API2.0,DariaMityagina,2023-12-28 18:40:48+00:00,open
+24785,dnn: remove Darknet importer for 5.0,WanliZhong,2023-12-27 16:55:07+00:00,open
+24756,dnn cann: support more operators for SAM,fengyuentau,2023-12-23 09:50:36+00:00,open
+24691,Yolo Object Detection API,Abdurrahheem,2023-12-12 18:35:43+00:00,open
+24564,change binarization in findChessboardCorners(),thewoz,2023-11-20 16:04:54+00:00,open
+24532,Implemented ocl INTER_LINEAR_EXACT resize,kallaballa,2023-11-13 07:08:53+00:00,open
+24444,fix race condition in oclCvtColorBGR2HSV (color_hsv.dispatch.cpp) by using  a mutex,kallaballa,2023-10-24 11:52:00+00:00,open
+24433,fix findContours in SimpleBlobDetector,AleksandrPanov,2023-10-20 14:00:55+00:00,open
+24426,Consider QRCode ECI encoding,dkurt,2023-10-18 20:07:22+00:00,open
+24414,Partially ported dnn resize_layer to T-API,kallaballa,2023-10-16 14:05:48+00:00,open
+24379,G-API: Introduce some classic CV ops via OV backend,dmatveev,2023-10-10 06:48:22+00:00,open
+24326,changed UMataData allocatorContext to OpenCLExecutionContext,kallaballa,2023-09-27 07:16:32+00:00,open
+24290,Promote colorspace information from decoder to swscale in FFmpeg backend,asmorkalov,2023-09-18 14:19:36+00:00,open
+24197,Pointcloud Compression Implementation in 3d module.,broweigit,2023-08-27 08:30:50+00:00,open
+24193,Add fuzztests,vrabaud,2023-08-24 11:55:51+00:00,open
+24151,Add resizeOnnx,Ginkgo-Biloba,2023-08-13 11:20:51+00:00,open
+24052,[GSoC23] Support of mixed model in stereo calibration and multi-view calibration,lpanaf,2023-07-24 18:30:40+00:00,open
+23960,gsoc2023 bytetrack project,guanarp,2023-07-10 20:58:13+00:00,open
+23921,optimize Mat::setTo() with memset,chacha21,2023-07-04 11:55:28+00:00,open
+23913,make cuda::GpuMatND compatible with InputArray/OutputArray,chacha21,2023-07-03 16:31:07+00:00,open
+23867,G-API: Enable initial JavaScript bindings,TolyaTalamanov,2023-06-25 13:56:59+00:00,open
+23689,DNN: optimize quantize convolution layer,zihaomu,2023-05-26 07:58:30+00:00,open
+23536,NPNP Perspective-n-Point problem,galgibly,2023-04-24 15:51:38+00:00,open
+23525,WIP: Vectorize cv::resize for INTER_AREA,vrabaud,2023-04-21 22:24:13+00:00,open
+23467,Java Finalize Class is a removal candidate in JDK 18 #22260,nroduit,2023-04-06 18:26:24+00:00,open
+23334,WIP: G-API: Multi-stream pipeline execution,dmatveev,2023-03-09 06:12:17+00:00,open
+23190,Include pixel-based uncertainty in ArUco marker detection,JonasPerolini,2023-01-28 19:49:30+00:00,open
+22997,add mask for the template image in findTransformECC,3dfirelab,2022-12-20 17:32:17+00:00,open
+22969,Additional template instantiations for int32_t==long,igrr,2022-12-15 15:31:38+00:00,open
+22884,Extend USAC coverage.,tfunatomi,2022-11-29 13:10:02+00:00,open
+22822,support construct submatrix from numpy array,huww98,2022-11-17 09:53:04+00:00,open
+22780,Redesign of CL/VA interop initialization,kallaballa,2022-11-09 14:48:33+00:00,open
+22731,Add saving to obj for TsdfVolume,rogday,2022-10-31 14:00:58+00:00,open
+22704,Implemented optional EGL based GL/CL interop,kallaballa,2022-10-26 23:46:08+00:00,open
+22671,Draft: Cancel old jobs for the same PR if new changes happened,asenyaev,2022-10-20 17:01:12+00:00,open
+22469,GAPI Fluid Resize:AVX2 implementation.,anna-khakimova,2022-09-04 13:05:21+00:00,open
+22431,[GSoC 2022] new imread api with named parameters and outputarray,ocpalo,2022-08-26 18:26:34+00:00,open
+22207,Fix the bug in pyrDown when src_width is even and swidth/2+1=dwidth,heavyrain-lzy,2022-07-07 11:16:58+00:00,open
+22181,[GSoC] [WIP] Add Audio Visual Speech Recognition pre-processing functions,spazewalker,2022-07-01 16:40:27+00:00,open
+21961,Fix unicode support for python binding on windows,liuxingbaoyu,2022-05-09 04:52:59+00:00,open
+21951,Core modify termcriteria,victor1234,2022-05-05 20:49:26+00:00,open
+21611,Add CMake option to install pip metadata when Python bindings are installed just by CMake,traversaro,2022-02-14 17:11:25+00:00,open
+21450,Improving STL compatibility using template meta programming preview #20891,HattrickGenerator,2022-01-14 19:51:10+00:00,open
+21407,Feature/weighted hough,MasahiroOgawa,2022-01-07 03:11:48+00:00,open
+21386,"(5.0) build: libopencv_* -> libopencv5_*, update SOVERSION",alalek,2022-01-04 14:17:55+00:00,open
+21337,Make cv::VideoCapture::get return -1 for unsupported properties.,mansourmoufid,2021-12-24 01:15:55+00:00,open
+21059,Call .create() during copyTo for an empty matrix.,vrabaud,2021-11-15 14:12:04+00:00,open
+20992,cmake: fix opencv_java location in case of Win32 Ninja builds,alalek,2021-11-02 21:16:52+00:00,open
+20770,Fixed result clip in template matching with normed sqdiff.,asmorkalov,2021-09-29 09:08:52+00:00,open
+20579,[G-API] Draft: Wrap GComputation::compile into python,TolyaTalamanov,2021-08-20 09:34:43+00:00,open
+20569,Update grfmt_jpeg2000_openjpeg.cpp,CSBVision,2021-08-18 06:15:53+00:00,open
+20456,Optimize cornerMinEigenVal,komakai,2021-07-25 07:35:53+00:00,open
+20390,Enhance BoW for loop closure detection,chinhsuanwu,2021-07-11 15:35:24+00:00,open
+20389,WIP: Nuget package with support for multiple msvc versions,AdityaMulgundkar,2021-07-11 10:01:42+00:00,open
+20371,3D samples using OpenGL and GLFW (Mesh and point cloud visualization),RiscadoA,2021-07-07 13:59:43+00:00,open
+20219,Use input rotation and translation in camera  calibration,thezane,2021-06-06 05:16:00+00:00,open
+20105,implement parallel horizontal flip,WeiChungChang,2021-05-17 11:00:48+00:00,open
+19343,Fixed detection of OpenBLAS and LAPACK on Ubuntu 18.04 with arch x86-64,HungWoeiNeoh,2021-01-18 10:27:50+00:00,open
+19305,Test writing documentation,DumDereDum,2021-01-11 09:19:32+00:00,open
+19126,WIP: Fix Subdiv2D: subdiv expand initial triangle,amirtu,2020-12-15 11:40:17+00:00,open
+18976,Add GitHub Actions for building XCFramework artifacts,chrisballinger,2020-12-01 01:18:38+00:00,open
+18925,Swift Package Manager [WIP],chrisballinger,2020-11-25 23:12:43+00:00,open
+18377,Zerocopy gstreamer videocapture,michaelgruner,2020-09-21 23:56:36+00:00,open
+18337,Major feature extension for file persistence in FILESTORAGE::READ mode,pjanotta,2020-09-14 21:24:17+00:00,open
+18066,"[GSoC] GPU-enabled OpenCV.js, add webgpu-dawn support for dnn module.",NALLEIN,2020-08-10 13:20:45+00:00,open
+17753,imquery() and overloaded imread() functions,sturkmen72,2020-07-05 10:18:40+00:00,open
+17068,PIL,AlexanderShashkin,2020-04-14 17:47:02+00:00,open
+16597,Fixes matrix expression bug which happens when Scalar in addition pas…,saskatchewancatch,2020-02-17 04:45:29+00:00,open
+15683,cv::magnitudeSqr(),chacha21,2019-10-10 11:57:05+00:00,open
+15682,added cv::magnitude(InputArray xy...),chacha21,2019-10-10 10:52:56+00:00,open
+15650,PnP issue 15647,tobycollins,2019-10-05 15:40:31+00:00,open
+14296,photo: Add support for CV_16U to cv::cuda::fastNlMeansDenoising and c…,kuruk-mm,2019-04-10 23:15:53+00:00,open
+11885,RFC: merge fisheye camera into default camera calibration API,paroj,2018-07-03 15:10:50+00:00,open
+10318,For various PR tests,alalek,2017-12-15 13:03:30+00:00,open
